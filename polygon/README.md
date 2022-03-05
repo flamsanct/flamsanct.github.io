@@ -1,16 +1,16 @@
-# Getting Setup with Polygon
+# Getting MATIC for Polygon
 
-While ships are minted on Ethereum mainnet (layer 1) so they are available for trading on popular NFT exchanges like OpenSea, all actual gameplay and governance takes place on Polygon, an Ethereum sidechain (layer 2). The advantage of Polygon is that transactions are fast and cheap compared to Ethereum mainnet. This means the focus can be on having fun and particpating rather than earning ROI to cover enormous gas fees.
+While ships are minted on Ethereum mainnet (layer 1) so they are available for trading on popular NFT exchanges like OpenSea, all actual gameplay and governance takes place on Polygon, an Ethereum sidechain (layer 2). The advantage of Polygon is that transactions are fast and cheap compared to Ethereum mainnet. This means the focus can be on having fun and particpating without sweating major gas fees.  
 
 While gas fees are very low on Polygon, you will need to load your wallet with a small amount of MATIC in order to play the game and particpate in the DAO. MATIC is the native token for the Polygon network that is used to pay for transactions.
 
 The steps for acquiring MATIC are as follows:
 
-1) Add the Polygon network to Metamask wallet
+1) Add the Polygon network to MetaMask wallet
 2) Buy MATIC on Ethereum mainnet
 3) Bridge your MATIC to Polygon
 
-## 1. Add Polygon network to Metamask
+## 1. Add Polygon network to MetaMask
 
 There's two ways to add the Polygon network to Metamask: using an easy *automatic* method or entering values into Metamask *manually*.
 
@@ -19,13 +19,15 @@ There's two ways to add the Polygon network to Metamask: using an easy *automati
 - Go to [https://www.polygonscan.com/](https://www.polygonscan.com/)
 - Scroll to the bottom of the page and look for the "Add Polygon Network" button with the MetaMask icon, then click on it. 
 
-![add Polygon to Metmask via polygonscan.com](https://docs.polygon.technology/img/metamask/mainnet-button.png)
+![add Polygon to Metmask via polygonscan.com](img/mainnet-button.png)
 
 * When prompted, click on approve to allow the Polygon Network to be added to your MetaMask wallet.
 
-![approve Polygon Network on MetaMask](https://docs.polygon.technology/img/metamask/mainnet-addnetwork.png)
+![approve Polygon Network on MetaMask](img/mainnet-addnetwork.png)
 
-* You will then be asked by MetaMask if you want to switch to the Polygon network, which is up to you. You can switch back to Ethereum at any time by clicking on the name of the network at the top of your MetaMask wallet. 
+* You will then be asked by MetaMask if you want to switch to the Polygon network, which is up to you. You can swith networks any time by clicking on the name of the network at the top of your MetaMask wallet. 
+
+![change wallet network](img/wallet-faq-1.png)
 
 ### Manually: Enter Values into Metamask directly
 - If the above step doesn't work for you, you can add Polygon to MetaMask manually in the following guide:
@@ -48,6 +50,7 @@ MATIC tokens can be purchased from a number of both of centralized and decentral
 * [Binance](https://www.binance.com/)
 * [Coinbase](https://www.coinbase.com/)
 * [Kraken](https://www.kraken.com/)
+* [Full list on CoinMarketCap](https://coinmarketcap.com/currencies/polygon/markets/)
 
 ### Examples of Decentralized Exchanges (Buy with ETH / Crypto)
 * [Uniswap](https://uniswap.org/)
@@ -55,13 +58,13 @@ MATIC tokens can be purchased from a number of both of centralized and decentral
 * [1inch](https://1inch.io/)
 
 
-### I already have ETH or another ERC20 token on the Polygon network, can I just buy MATIC with that? 
-Yes, if you already have an ERC20 on the Polygon network in your wallet, you can use a Polygon DEX like [QuickSwap](https://www.quickswap.org/) to swap for MATIC directly without having to bridge. 
+### I already have ETH on the Polygon network, can I just buy MATIC with that? 
+Yes, if you already have ETH or another ERC20 token on the Polygon network in your wallet, you can use a Polygon DEX like [QuickSwap](https://www.quickswap.org/) to swap for MATIC directly without having to bridge. 
 
 
 ## 3. Bridge MATIC from Ethereum to Polygon
 
-The MATIC you buy on most exchanges will be on Ethereum mainnet and will need to bridged to the Polygon network to be avaiable for use in Polygon transactions. 
+The MATIC you buy on most exchanges will be on Ethereum mainnet and will need to bridged to the Polygon network to be avaiable for use in Polygon transactions. There a few exchanges that will allow you to withdraw MATIC directly to the Polygon network, but you'll have to check with your exchange about that.  
 
 You can bridge your MATIC to Polygon from Ethereum mainnet by using the Polygon Bridge from from the Polygon wallet:
 > [Polygon Bridge](https://wallet.polygon.technology/bridge)
@@ -70,7 +73,10 @@ You can bridge your MATIC to Polygon from Ethereum mainnet by using the Polygon 
 
 ## Frequently Asked Questions
 
-### How much will each game transaction cost?
+
+### How much will it cost to bridge ships from Ethereum to Polygon, and vice versa?
+
+### How much will each basic game transaction cost?
 
 ### How much MATIC do I need in my wallet to play?
 
