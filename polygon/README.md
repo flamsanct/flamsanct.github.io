@@ -1,4 +1,4 @@
-# Getting MATIC for Polygon Transaction Fees
+# How to Buy MATIC for Polygon Transaction Fees
 
 While ships are minted on Ethereum mainnet (layer 1) so they are available for trading on popular NFT exchanges like OpenSea, all actual gameplay and governance takes place on Polygon, an Ethereum sidechain (layer 2). The advantage of Polygon is that transactions are fast and cheap compared to Ethereum mainnet. This means the focus can be on having fun and participating without sweating major gas fees.  
 
@@ -32,15 +32,15 @@ There's two ways to add the Polygon network to Metamask: using an easy *automati
 ### Option 2: Enter Values into Metamask Manually
 - If the above step doesn't work for you, you can add Polygon to MetaMask manually in the following guide:
 
-> [Learn how to add Polygon to Metamask manually](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/#add-the-polygon-network-manually)
+* [Learn how to add Polygon to Metamask manually](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/#add-the-polygon-network-manually)
 
 
 ### Need more help on this?
-> [Read more information on adding the Polygon Network to Metamask](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/)
+* [Read more information on adding the Polygon Network to Metamask](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/)
 
 ### Don't have MetaMask?
 
-> [Learn how to install and setup a MetaMask wallet](https://docs.polygon.technology/docs/develop/metamask/hello)
+* [Learn how to install and setup a MetaMask wallet](https://docs.polygon.technology/docs/develop/metamask/hello)
 
 ## 2. Buy MATIC Tokens From an Exchange
 
