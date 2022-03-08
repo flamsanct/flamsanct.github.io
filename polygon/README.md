@@ -89,7 +89,7 @@ You must refer to each exchange in terms of how to buy and withdraw MATIC on Pol
 
 In this case, you simply buy MATIC on any exchange where it is available. MATIC can be purchased from a number of both of centralized exchanges (e.g. Coinbase) and decentralized exchanges (e.g. Uniswap). A full list of exchanges that sell MATIC can be seen here:
 
-* [Full list of exchanges on CoinMarketCap](https://coinmarketcap.com/currencies/polygon/markets/)
+[Full list of exchanges on CoinMarketCap](https://coinmarketcap.com/currencies/polygon/markets/)
 
 - `Step 1:` Buy MATIC on your exchange of choice. 
 - `Step 2:` Withdraw the MATIC to your Ethereum wallet address on the Ethereum network.
