@@ -18,7 +18,7 @@ The most expensive transactions will not be any more than 0.05 MATIC at 100 Gwei
 
 ## How do I switch between Polygon and Ethereum networks on MetaMask?
 
- In order to play the game and view your bridged assets you will have to switch your wallet to the Polygon network. In MetaMask, you can switch networks any time by clicking on the name of the network at the top of your MetaMask wallet.
+ In order to play the game and view your bridged assets you will have to switch your wallet to the Polygon network. In MetaMask, you can switch networks any time by clicking on the name of the network at the top of the window.
 
 ![change wallet network](img/polygon-switchnetwork.png)
 
@@ -48,9 +48,9 @@ There's two ways to add the Polygon network to MetaMask: using an easy *automati
 
 ![approve Polygon Network on MetaMask](img/polygon-addnetwork.png)
 
-* You will then be asked by MetaMask if you want to switch to the Polygon network, which is up to you.
+* You will then be asked by MetaMask if you want to switch to the Polygon network, which is up to you. [You can switch between networks any time you wish](#how-do-i-switch-between-polygon-and-ethereum-networks-on-metamask).
 ## Option 2: Enter Values into MetaMask Manually
-- If the above step doesn't work for you, you can add Polygon to MetaMask manually in the following guide:
+If the above step doesn't work for you, you can add Polygon to MetaMask manually in the following guide:
 
 * [Learn how to add Polygon to Metamask manually](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/#add-the-polygon-network-manually)
 
@@ -85,7 +85,7 @@ Below is an incomplete list of examples of exchanges that *may* support direct P
 You must refer to each exchange in terms of how to buy and withdraw MATIC on Polygon, but the process will always end with withdrawing your MATIC to your MetaMask wallet address that has the Polygon network configured. 
 
 
-## Option 2: Buy MATIC on Any Exchange and Bridge to Polygon
+## Option 2: Buy MATIC on Ethereum on any Exchange and Bridge to Polygon
 
 In this case, you simply buy MATIC on any exchange where it is available. MATIC can be purchased from a number of both of centralized exchanges (e.g. Coinbase) and decentralized exchanges (e.g. Uniswap). A full list of exchanges that sell MATIC can be seen here:
 
