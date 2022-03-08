@@ -70,9 +70,10 @@ There's two ways to add the Polygon network to MetaMask: using an easy *automati
 - `Option 2`: Otherwise, buy MATIC on an exchange on Ethereum mainnet, then bridge it to the Polygon network.
 
 
+
 ## Option 1: Buy From an Exchange That Supports Direct Polygon Withdrawals
 
-Below is an incomplete list of examples of exchanges that *may* support direct Polygon withdrawals, but you must do your own research (DYOR) before making any purchases as this is subject to change at any time, and this should not be an endorsement of any of these exchanges. 
+Below is an incomplete list of examples of exchanges that *may* support direct Polygon withdrawals, but you must do your own research (DYOR) before making any purchases as this is subject to change at any time, and this should not be considered an endorsement of any of these exchanges. 
 
 - Moonpay
 - Crypto.com
@@ -88,7 +89,7 @@ You must refer to each exchange in terms of how to buy and withdraw MATIC on Pol
 
 In this case, you simply buy MATIC on any exchange where it is available. MATIC can be purchased from a number of both of centralized exchanges (e.g. Coinbase) and decentralized exchanges (e.g. Uniswap). A full list of exchanges that sell MATIC can be seen here:
 
- [Full list of exchanges on CoinMarketCap](https://coinmarketcap.com/currencies/polygon/markets/)
+* [Full list of exchanges on CoinMarketCap](https://coinmarketcap.com/currencies/polygon/markets/)
 
 - `Step 1:` Buy MATIC on your exchange of choice. 
 - `Step 2:` Withdraw the MATIC to your Ethereum wallet address on the Ethereum network.
