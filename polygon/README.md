@@ -27,7 +27,6 @@ To be able to switch to the Polygon network, it has to be added to MetaMask. If 
  [See: How to Add Polygon to MetaMask](#how-to-add-the-polygon-network-to-metamask) 
 
 
-
 ## Why was Polygon chosen over Layer 2 solutions?
 
 Polygon is the most mature Layer 2 solution available and has the best track record as far as security and dependability are concerned. At the moment, it is both cheaper and faster than other options (especially when it comes to bridging). It was convenient to work with and met our needs really well for what we wanted to accomplish.
@@ -64,16 +63,12 @@ There's two ways to add the Polygon network to MetaMask: using an easy *automati
 * [Learn how to install and setup a MetaMask wallet](https://docs.polygon.technology/docs/develop/metamask/hello)
 
 
-
 # How to Buy MATIC
 
 - `Prerequisite`: [Add the Polygon network to MetaMask wallet](#how-to-add-the-polygon-network-to-metamask), if you haven't already. 
 - `Option 1`: Buy MATIC on an exchange that supports direct withdrawal to the Polygon network, then withdraw to your wallet.
 - `Option 2`: Otherwise, buy MATIC on an exchange on Ethereum mainnet, then bridge it to the Polygon network.
 
-MATIC tokens can be purchased from a number of both of centralized exchanges (e.g. Coinbase) and decentralized exchanges (e.g. Uniswap). A full list of exchanges that sell MATIC can be seen here:
-
-* [Full list of exchanges on CoinMarketCap](https://coinmarketcap.com/currencies/polygon/markets/)
 
 ## Option 1: Buy From an Exchange That Supports Direct Polygon Withdrawals
 
@@ -91,13 +86,15 @@ You must refer to each exchange in terms of how to buy and withdraw MATIC on Pol
 
 ## Option 2: Buy MATIC on Any Exchange and Bridge to Polygon
 
-In this case, you simply buy MATIC on any exchange where it is available.
+In this case, you simply buy MATIC on any exchange where it is available. MATIC can be purchased from a number of both of centralized exchanges (e.g. Coinbase) and decentralized exchanges (e.g. Uniswap). A full list of exchanges that sell MATIC can be seen here:
+
+ [Full list of exchanges on CoinMarketCap](https://coinmarketcap.com/currencies/polygon/markets/)
 
 - `Step 1:` Buy MATIC on your exchange of choice. 
 - `Step 2:` Withdraw the MATIC to your Ethereum wallet address on the Ethereum network.
 - `Step 3:` Use a bridging app to send your MATIC to Polygon. 
 
-### Bridging to Polygon
+### Bridging MATIC to Polygon
 
 Bridging is the process of sending a token from Ethereum  to the Polygon, or vice versa. By default, most exchanges only offer Ethereum mainnet withdrawals of MATIC. So in this case you have to send it to your wallet on Ethereum and then bridge to Polygon.
 
