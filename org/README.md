@@ -37,11 +37,11 @@ Decentralized | Autonomous | Intrinsically gamified
 
 ### On-chain
 
-**Immutable and Persistent**
+#### Immutable and Persistent
 
 A major benefit of a persistent world living on the blockchain is that is benefits from the [anti-fragile persistence](/persistence/) inherent to blockchains. Of all the types of games, virtual worlds benefit from robust persistance provided by the blockchain most. Unlike many current blockchain games and metaverse projects, on-chain games host *all* of their game assets and game state on-chain. The events of the world are recorded in an immutable ledger by default. Theoretically, this allows an on-chain persistent world to live on indefinitely. 
 
-**The World is Virtual, the Value is Real**
+#### The World is Virtual, the Value is Real
 
 One of the big selling features of a blockchain game is that the pieces of the game world have real world value and are actively traded on sanctioned marketplaces with non-trivial liquidity. A significant implication of this is that since this creates an ecosystem that is connected to real world liquidity, *contributions to the ecosystem* can also be approximated in terms of real world value. This means that it's possible to be financially rewarded for both in-game activity and contributing to the DAO in the same greater virtual world economy. In other words, in this virtual world your actions can affect and create real world value. 
 
@@ -52,7 +52,7 @@ One of the big selling features of a blockchain game is that the pieces of the g
 Decentralized and autonomous governance requires a fundamentally self organizing structure. Even if we are to guide this process in the direction of the desired outcomes, with true decentralization and autonomy comes the surrender of control to what emerges spontaneously. In a self organizing, DAO owned virtual world we participate in a creative process that could result in a world and structure that *emerges* as much it is designed. 
 
 
-##### Co-creative
+#### Co-creative
 
 Central to the process of self organization is the ability for all autonomous actors in the system to modify or build on the system -- to make their own independent contribution. In a virtual world, this means the players (or avatars) of the world have the ability to co-create the world they inhabit collaboratively. Ownership by a DAO is one way to enable co-creation in an on-chain world. This means we should give preference to flexibility and loose coupling when it comes to designing structure and hierarchy. 
 
