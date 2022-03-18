@@ -1,5 +1,5 @@
 # Organizing the Citadel
-![Organizing a decentralized virtual world](img/header.png)
+![Organizing a decentralized virtual world](img/header_alt.png)
 
 The launch of The Citadel will represent a fairly radical experiment in decentralizing a blockchain gaming project. This is accomplished via the Citadel DAO, to which the majority of both funding and ownership are handed trustlessly via smart contracts on launch day. Once this happens, the founding team will become community members alongside everyone else with the exception of a set of well defined and programmatically revokable privileges appropriate for overseeing the early phases of the game and project. There are many opportunities and challenges that await us on this journey, and it will be up to all of us in the community to decide how we are to meet them. 
 
