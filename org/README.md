@@ -43,7 +43,7 @@ A major benefit of a persistent world living on the blockchain is that is benefi
 
 **The World is Virtual, the Value is Real**
 
-One of the big selling features of a blockchain game is that the pieces of the game world have real world value and are actively traded on sanctioned marketplaces with non-trivial liquidity. A significant implication of this is that since this creates an ecosystem that is connected to real world liquidity, *contributions to the ecosystem* can also be approximated in terms of real world value. This means that it's possible to be financially rewarded for both in-game activity and contributing to the DAO in the same greater virtual world economy. In other words, in this virtual world your actions can create real world value. 
+One of the big selling features of a blockchain game is that the pieces of the game world have real world value and are actively traded on sanctioned marketplaces with non-trivial liquidity. A significant implication of this is that since this creates an ecosystem that is connected to real world liquidity, *contributions to the ecosystem* can also be approximated in terms of real world value. This means that it's possible to be financially rewarded for both in-game activity and contributing to the DAO in the same greater virtual world economy. In other words, in this virtual world your actions can affect and create real world value. 
 
 ### DAO Owned
 
@@ -76,7 +76,7 @@ Like a guild, members of the organization may feel they belong to something fun 
 
 **Intrinsically gamified**
 
-In a way, applying gamification strategies to non-games requires inventing a pseudo virtual world context in which virtual rewards matter. Why does the user care they are rewarded with achievement titles, badges, points, or other virtual accolades? Beyond superficial dopamine manipulation, these things only *matter* in relation to the context in which they exist. From the user's perspective, the more meaningful the context the better. Ideally, your rewards are part of a greater system that other people participate in and who are able to see and recognize your rewards as valuable. 
+In a way, applying gamification strategies to non-games requires inventing a pseudo virtual world context in which virtual rewards matter. Why does the user care they are rewarded with achievement titles, badges, points, or other virtual accolades? Beyond superficial dopamine manipulation, virtual rewards and accomplishments only *matter* in relation to the context in which they exist. From the user's perspective, the more meaningful the context the better. Ideally, your rewards are part of a greater system that other people participate in and who are able to see and recognize your rewards as valuable. 
 
 When the product a DAO owns and builds *is* a virtual world, there is no need to invent an artificial virtual context for rewards to matter in -- gamification is native to the platform. 
 
@@ -86,7 +86,7 @@ The Citadel is at the intersection of all the above characteristics, which place
 
 The truly unique aspect of an on-chain DAO owning an on-chain virtual world is that one becomes an inextricable part of the other. Rather than an on-chain game that just so happens to be owned by a DAO, we could instead recognize this to be a singular on-chain world that is owned and operated by its players. It accomplishes this via governance mechanics that  are as native to the world as any other mechanic. 
 
-For example, we'll talk later about a "working group" called the Council, a type of oversight committee for the DAO. Fleet Commander has been "reporting to the Council" from the start of the project from a lore perspective. "The Council" could theoretically exist in-game in some form or another. Voting on proposals occurs in the "Parliament" in the lore, which could also theoretically actually exist in-game. 
+For example, we'll talk later about a "working group" called the Council, a type of oversight committee for the DAO. Fleet Commander has been "reporting to the Council" from the start of the project from a lore perspective. "The Council" could theoretically exist in-game in some form or another. Voting on proposals occurs in the "Parliament" in the lore, which could also theoretically actually exist in-game -- certainly via an in-game interface. 
 
 The point is that all the qualities that apply to the virtual world can also apply to the DAO, since they are one in the same. The DAO aspect of this world has the *potential* to be just as fun, immersive, and intrinsicially gamified as any other part of it. The "organization" in our "decentralized autonomous organization" could be said to live and operate in the world it owns and builds -- a decentralized autonomous *world*. 
 
