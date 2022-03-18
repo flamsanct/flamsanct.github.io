@@ -1,7 +1,7 @@
 # Organizing the Citadel
 ![Organizing a decentralized virtual world](img/header_alt.png)
 
-The launch of The Citadel will represent a fairly radical experiment in decentralizing a blockchain gaming project. This is accomplished via the Citadel DAO, to which the majority of both funding and ownership are handed trustlessly via smart contracts on launch day. Once this happens, the founding team will become community members alongside everyone else with the exception of a set of well defined and programmatically revokable privileges appropriate for overseeing the early phases of the game and project. There are many opportunities and challenges that await us on this journey, and it will be up to all of us in the community to decide how we are to meet them. 
+The launch of The Citadel will represent a fairly radical experiment in decentralizing a blockchain gaming project. This is acczmplished via the Citadel DAO, to which the majority of both funding and ownership are handed trustlessly via smart contracts on launch day. Once this happens, the founding team will become community members alongside everyone else with the exception of a set of well defined and programmatically revokable privileges appropriate for overseeing the early phases of the game and project. There are many opportunities and challenges that await us on this journey, and it will be up to all of us in the community to decide how we are to meet them. 
 
 
 
@@ -39,7 +39,7 @@ Decentralized | Autonomous | Intrinsically gamified
 
 **Immutable and Persistent**
 
-A major benefit of a persistent world living on the blockchain is that is benefits from the [anti-fragile persistence](/persistence/) inherent to blockchains. Of all the types of games, virtual worlds benefit from robust persistance provided by the blockchain most of all. Unlike many current blockchain games and metaverse projects, on-chain games host *all* of their game assets and game state on-chain. The events of the world are recorded in an immutable ledger by default. Theoretically, this allows an on-chain persistent world to live on indefinitely. 
+A major benefit of a persistent world living on the blockchain is that is benefits from the [anti-fragile persistence](/persistence/) inherent to blockchains. Of all the types of games, virtual worlds benefit from robust persistance provided by the blockchain most. Unlike many current blockchain games and metaverse projects, on-chain games host *all* of their game assets and game state on-chain. The events of the world are recorded in an immutable ledger by default. Theoretically, this allows an on-chain persistent world to live on indefinitely. 
 
 **The World is Virtual, the Value is Real**
 
@@ -64,31 +64,33 @@ Central to the process of self organization is the ability for all autonomous ac
 
 <p style="font-style: italic; text-align: center; font-size: 14px"><a href="https://encompass.eku.edu/cgi/viewcontent.cgi?article=1018&context=ugra">Projecting the self into a virtual world</a> Smith, 2014</p>
 
-One characteristic that sets a virtual world apart from many other types of products a DAO might be building is that it is *psychologically inhabitable*. That is, you can have the subjective experience of "occupying" the virtual space. This becomes especially interesting when we think of participating in a DAO as an extension of inhabiting the world in which it owns and builds.  
+One characteristic that sets a virtual world apart from many other types of products a DAO might be building is that it is *psychologically inhabitable*. That is, you can have the subjective experience of "occupying" the virtual space. This becomes especially interesting when we think of participating in a DAO as an extension of inhabiting the world in which it owns and builds. 
 
 
 **Self perpetuating** 
 
-Another characteristic that makes a virtual world a unique product is that like the real world, a virtual world could be said to exist for its own sake (to some degree). Unlike most products that are designed to solve a particular problem, the market fit for a virtual world crosses the threshold of "interactive entertainment" and begins to adopt a self perpetuating will to simply *be*. The [telos](https://en.wikipedia.org/wiki/Telos) of the world is to go on being a world as an expression of the collective will of its autonomous constituents. This existential motive competes to some extent with the profit motive that most organizations operate around. This might change the fundamental assumptions we make about what users care about in our project. 
+Another characteristic that makes a virtual world a unique product is that like the real world, a virtual world could be said to exist for its own sake (to some degree). Unlike most products that are designed to solve a particular problem, the market fit for a virtual world crosses the threshold of "interactive entertainment" and begins to adopt a self perpetuating will to simply *be*. The [telos](https://en.wikipedia.org/wiki/Telos) of the world is to go on being a world as an expression of the collective will of its autonomous constituents. 
+
+Like a guild, members of the organization may feel they belong to something fun and special they would like to see go on. Like a nation state, denizens of the world may feel invested in the well being of their space and their community. This existential motive competes to some extent with the profit motive that most organizations operate around. This might change the fundamental assumptions we make about what users care about in our project. 
 
 
 **Intrinsically gamified**
 
-In a way, applying gamification strategies to non-games requires inventing a pseudo virtual world context in which virtual rewards matter. Why does the user care they are rewarded with achievement titles, badges, "points", or other virtual accolades? These things only matter in relation to the context in which they exist. From the user's perspective, the more meaningful the context the better. Ideally, your rewards are part of a greater system that other people participate in and who are able to see and recognize your rewards as valuable. 
+In a way, applying gamification strategies to non-games requires inventing a pseudo virtual world context in which virtual rewards matter. Why does the user care they are rewarded with achievement titles, badges, points, or other virtual accolades? Beyond superficial dopamine manipulation, these things only *matter* in relation to the context in which they exist. From the user's perspective, the more meaningful the context the better. Ideally, your rewards are part of a greater system that other people participate in and who are able to see and recognize your rewards as valuable. 
 
-When the product a DAO owns and builds *is* a virtual world, there is no need to invent an artificial virtual context for rewards to matter in -- the virtual world is already there and gamification is native to the platform. 
+When the product a DAO owns and builds *is* a virtual world, there is no need to invent an artificial virtual context for rewards to matter in -- gamification is native to the platform. 
 
 ## Decentralized Autonomous World
 
-Things get especially interesting when we recognize that the Citadel is at the intersection of all the above characteristics, which places us into somewhat uncharted territory. 
+The Citadel is at the intersection of all the above characteristics, which places us into somewhat uncharted territory. 
 
-The truly unique aspect of an on-chain DAO owning an on-chain virtual world is that one becomes an inextricable part of the other. Rather than an on-chain game that happens to be owned by a DAO, we could instead recognize this to be a singular on-chain world that is owned and operated by its players. It accomplishes this via governance mechanics that are as native to the world as any other mechanic. 
+The truly unique aspect of an on-chain DAO owning an on-chain virtual world is that one becomes an inextricable part of the other. Rather than an on-chain game that just so happens to be owned by a DAO, we could instead recognize this to be a singular on-chain world that is owned and operated by its players. It accomplishes this via governance mechanics that  are as native to the world as any other mechanic. 
 
-For example, we'll talk later about a "working group" called the Council, a type of oversight committee for the DAO. Fleet Commander has been "reporting to the Council" from the start of the project, from a lore perspective. "The Council" could theoretically exist in-game in some form or another. Voting on proposals occurs in the "Parliament" in the lore, which could also theoretically actually exist in-game. 
+For example, we'll talk later about a "working group" called the Council, a type of oversight committee for the DAO. Fleet Commander has been "reporting to the Council" from the start of the project from a lore perspective. "The Council" could theoretically exist in-game in some form or another. Voting on proposals occurs in the "Parliament" in the lore, which could also theoretically actually exist in-game. 
 
-The point is that all the qualities that apply to the virtual world can also apply to the DAO, since they are one in the same. The DAO aspect of this world has the *potential* to be just as fun, immersive, and intrinsicially gamified as any other part of it. The "organization" in "decentralized autonomous organization" lives and operates in the world it owns and builds -- a decentralized autonomous *world*. 
+The point is that all the qualities that apply to the virtual world can also apply to the DAO, since they are one in the same. The DAO aspect of this world has the *potential* to be just as fun, immersive, and intrinsicially gamified as any other part of it. The "organization" in our "decentralized autonomous organization" could be said to live and operate in the world it owns and builds -- a decentralized autonomous *world*. 
 
-In a decentralized autonomous world, participants can create, play, socialize, learn, and teach. They can collaborate on building the virtual space they themselves would most like to inhabit. Their contributions, both large and small, can be rewarded in ways that are meaningful both to the virtual world itself and to the real world. Players will not be instructed to "play to earn" via joyless mechanics -- they will be invited to *inhabit the world* they own and get rewarded for the value they contribute along the way. 
+In a decentralized autonomous world, participants can create, play, socialize, learn, and teach. They can collaborate on building the virtual space they themselves would most like to inhabit. Their contributions, both large and small, can be rewarded in ways that are meaningful both to the virtual world itself and to the real world. Players will not be asked to "play to earn" via joyless mechanics; they will be invited to *inhabit the world* they own and be rewarded for the value they contribute along the way. 
 
 This idea of decentralized autonomous worlds may sound very well in theory, but now we must begin to imagine how this might all work in practice. With the help of gamification strategies, a robust economic engine driven by the game loop, delegating domain-specific authority to trusted community members, community collaboration tooling, and prioritizing the on-boarding of new participants via gamified learning, we might begin to see that a decentralized virtual world actually holds tremendous potential as a high functioning autonomous organization. 
 
