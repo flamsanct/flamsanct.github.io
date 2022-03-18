@@ -1,7 +1,7 @@
 # Organizing the Citadel
 ![Organizing a decentralized virtual world](img/header_alt.png)
 
-The launch of The Citadel will represent a fairly radical experiment in decentralizing a blockchain gaming project. This is acczmplished via the Citadel DAO, to which the majority of both funding and ownership are handed trustlessly via smart contracts on launch day. Once this happens, the founding team will become community members alongside everyone else with the exception of a set of well defined and programmatically revokable privileges appropriate for overseeing the early phases of the game and project. There are many opportunities and challenges that await us on this journey, and it will be up to all of us in the community to decide how we are to meet them. 
+The launch of the Citadel will represent a fairly radical experiment in decentralizing a blockchain gaming project. This is acczmplished via the Citadel DAO, to which the majority of both funding and ownership are handed trustlessly via smart contracts on launch day. Once this happens, the founding team will become community members alongside everyone else with the exception of a set of well defined and programmatically revokable privileges appropriate for overseeing the early phases of the game and project. There are many opportunities and challenges that await us on this journey, and it will be up to all of us in the community to decide how we are to meet them. 
 
 
 
@@ -15,7 +15,7 @@ Before we dive into the particulars of the structure and design of a DAO, it mig
 
 From here, our game moves beyond the DeFi roots of many on-chain games and begins to create an immersive 2D environment. In this environment, you have an avatar (a spaceship) that has *agency* in two dimensions. It can decide where it goes, and when, and what it does when it gets there. These are very simple mechanics, and yet it forms the kernel for a much expanded universe of possibilities. So we have the beginnings of a multiplayer, online, persistent, immersive world populated by avatars with the agency of how to move and behave. This begins to sound a lot like what would traditionally be called a *virtual world*. 
 
-Will the launch version of The Citadel constitute a proper virtual world? One meta-analysis of the literature on the subject came up with the following definition:
+Will the launch version of the Citadel constitute a proper virtual world? One meta-analysis of the literature on the subject came up with the following definition:
 
 >A persistent, simulated and immersive environment, facilitated by networked
 computers, providing multiple users with avatars and communication tools with which to act
