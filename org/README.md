@@ -47,18 +47,19 @@ One of the big selling features of a blockchain game is that the pieces of the g
 
 ### DAO Owned
 
-**Self Organizing**
+#### Self Organizing
 
 Decentralized and autonomous governance requires a fundamentally self organizing structure. Even if we are to guide this process in the direction of the desired outcomes, with true decentralization and autonomy comes the surrender of control to what emerges spontaneously. In a self organizing, DAO owned virtual world we participate in a creative process that could result in a world and structure that *emerges* as much it is designed. 
 
 
-**Co-creative** 
+##### Co-creative
 
 Central to the process of self organization is the ability for all autonomous actors in the system to modify or build on the system -- to make their own independent contribution. In a virtual world, this means the players (or avatars) of the world have the ability to co-create the world they inhabit collaboratively. Ownership by a DAO is one way to enable co-creation in an on-chain world. This means we should give preference to flexibility and loose coupling when it comes to designing structure and hierarchy. 
 
 
 ### Virtual World
-**Psychologically Inhabitable**
+
+#### Psychologically Inhabitable
 
 > A virtual world is an immersive virtual environment that users can psychologically inhabit. 
 
@@ -67,14 +68,14 @@ Central to the process of self organization is the ability for all autonomous ac
 One characteristic that sets a virtual world apart from many other types of products a DAO might be building is that it is *psychologically inhabitable*. That is, you can have the subjective experience of "occupying" the virtual space. This becomes especially interesting when we think of participating in a DAO as an extension of inhabiting the world in which it owns and builds. 
 
 
-**Self Perpetuating** 
+#### Self Perpetuating
 
 Another characteristic that makes a virtual world a unique product is that like the real world, a virtual world could be said to exist for its own sake (to some degree). Unlike most products that are designed to solve a particular problem, the market fit for a virtual world crosses the threshold of "interactive entertainment" and begins to adopt a self perpetuating will to simply *be*. The [telos](https://en.wikipedia.org/wiki/Telos) of the world is to go on being a world as an expression of the collective will of its autonomous constituents. 
 
 Like a guild, members of the organization may feel they belong to something fun and special they would like to see go on. Like a nation state, denizens of the world may feel invested in the well being of their space and their community. This existential motive competes to some extent with the profit motive that most organizations operate around. This might change the fundamental assumptions we make about what users care about in our project. 
 
 
-**Intrinsically Gamified**
+#### Intrinsically Gamified
 
 In a way, applying gamification strategies to non-games requires inventing a pseudo virtual world context in which virtual rewards matter. Why does the user care they are rewarded with achievement titles, badges, points, or other virtual accolades? Beyond superficial dopamine manipulation, virtual rewards and accomplishments only *matter* in relation to the context in which they exist. From the user's perspective, the more meaningful the context the better. Ideally, your rewards are part of a greater system that other people participate in and who are able to see and recognize your rewards as valuable. 
 
@@ -230,7 +231,7 @@ Another possibility is that levels that generally coincide with senior or leader
 
 Quests could be any small task that the DAO needs completed. Some may be reoccurring, and some may be a one time deal. The rewards for completing these tasks could be some combination of world XP, $ORE, or possibly future in-game items. Quests represent a great way to get new people to take the leap of making their first formal contribution to the world. 
 
-One interesting possibility is that we could allow aspiring pilots that don't have a ship to level up as high as rank 5 (Ensign) by completing quests and be paid in $ORE. This could eventually allow them to participate in the in-game ship auctions and have a shot at winning a ship of their own, which would then allow them to participate in the rest of the ecosystem. 
+One interesting possibility is that we could allow aspiring pilots that don't have a ship to level up as high as rank 5 (Pilot) by completing quests and be paid in $ORE. This could eventually allow them to participate in the in-game ship auctions and have a shot at winning a ship of their own, which would then allow them to participate in the rest of the ecosystem. 
 
 ## The Game Loop of Autonomous Organizations
 
@@ -307,42 +308,42 @@ The gamified learning portal could integrate well with the level system, and per
 
 A nice way to bring all of these ideas together is through some type of web based community dashboard. Within one well organized, UX optimized interface we could include information such as:
 
-**Governance**
+#### Governance
 - View active proposals
 - Vote on active proposal
 - Submit new proposal
 
-**Working groups**
+#### Working Groups
 - See listing of current role openings
 - See list of all open quests grouped by working group
 - If part of a working group, see all active approved proposals assigned to working group 
 
-**Activity feeds**
+#### Activity Feeds
 - The governance feed (recently passed proposals, recently failed proposals, recently submitted proposals, recent votes)
 - A feed of community events (level ups, achievements earned, quests completed, projects completed, new high score on the leaderboard)
 - The killmail feed (most recently destroyed ships)
 - Most recent NFT sales on exchanges
 
-**Achievements**
+#### Achievements
 - Level
 - Current XP, XP needed for next level
 - Badges
 
-**Education**
+#### Education
 - Browse topics and search World Codex (community docs)
 - View Currently available courses to take
 - View completed courses
 - Continue active courses
 
-**Reporting**
+#### Reporting
 - Economic reports
 - Treasury / budget reports 
 
-**The game leaderboard**
+#### The Game Leaderboard
 - High scores for pilots (wallets)
 - High scores for individual ships
 
-**Other possibilites**
+#### Other Possibilites
 - A forum (e.g. Discourse)
 - DAO tooling integrations
 - A DAO leaderboard
