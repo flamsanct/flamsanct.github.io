@@ -20,7 +20,7 @@ Will the launch version of The Citadel constitute a proper virtual world? One me
 >A persistent, simulated and immersive environment, facilitated by networked
 computers, providing multiple users with avatars and communication tools with which to act
 and interact in-world and in real-time.
-<p style="font-size: 12px; text-align:center; font-style:italic"><a href="https://www.scss.tcd.ie/publications/tech-reports/reports.13/TCD-CS-2013-10.pdf">What is a Virtual World: Definition and Classification</a></p>
+<p style="font-size: 14px; text-align:center; font-style:italic"><a href="https://www.scss.tcd.ie/publications/tech-reports/reports.13/TCD-CS-2013-10.pdf">What is a Virtual World: Definition and Classification</a></p>
 
 Under this definition, the Citadel could arguably fall under the category of virtual worlds that were common in the 80s and 90s which relied heavily on text-based and 2D interfaces. At launch, perhaps we've reached a "minimum viable world" threshold, and we will undoubtedly move in the direction of ever more depth and immersive features after launch. 
 
@@ -62,7 +62,7 @@ Central to the process of self organization is the ability for all autonomous ac
 
 > A virtual world is an immersive virtual environment that users can psychologically inhabit. 
 
-<p style="font-style: italic; text-align: center; font-size: 12px"><a href="https://encompass.eku.edu/cgi/viewcontent.cgi?article=1018&context=ugra">Projecting the self into a virtual world</a> Smith, 2014</p>
+<p style="font-style: italic; text-align: center; font-size: 14px"><a href="https://encompass.eku.edu/cgi/viewcontent.cgi?article=1018&context=ugra">Projecting the self into a virtual world</a> Smith, 2014</p>
 
 One characteristic that sets a virtual world apart from many other types of products a DAO might be building is that it is *psychologically inhabitable*. That is, you can have the subjective experience of "occupying" the virtual space. This becomes especially interesting when we think of participating in a DAO as an extension of inhabiting the world in which it owns and builds.  
 
@@ -97,7 +97,7 @@ Let's first look at some ideas on how we could go about structuring the DAO.
 
 ## Evolving the DAO
 ![DA0 Models](img/dao20.png)
-<p style="text-align:center; font-size: 11px;">Source: 1kxnetwork's excellent <a style="font-style: italic" href="https://medium.com/1kxnetwork/organization-legos-the-state-of-dao-tooling-866b6879e93e">Organization Legos: The State of DAO Tooling</a></p>
+<p style="text-align:center; font-size: 14px;">Source: 1kxnetwork's excellent <a style="font-style: italic" href="https://medium.com/1kxnetwork/organization-legos-the-state-of-dao-tooling-866b6879e93e">Organization Legos: The State of DAO Tooling</a></p>
 
 When we look at what the above chart refers to as a DAO 1.0 versus a DAO 2.0, the launch version of Citadel DAO will land closer to the 1.0 model. The majority of day-to-day project management will still be concentrated with the core team and community decision making will usually come down to a DAO-wide democratic vote on a proposal. So there will be DAO 1.0 way of getting things done initially, and the team will provide as much documentation about how to go about this as possible. 
 
@@ -267,7 +267,7 @@ The challenge is in how best to facilitate and incentivize high quality communit
 
 
 ![Contributor's Journey](img/contributors_journey.png)
-<p style="text-align:center; font-size: 11px;">Source:  1kxnetwork <a style="font-style: italic" href="https://medium.com/1kxnetwork/how-to-grow-decentralized-communities-1bf1044924f8">How to Grow Decentralized Communities</a></p>
+<p style="text-align:center; font-size: 14px;">Source:  1kxnetwork <a style="font-style: italic" href="https://medium.com/1kxnetwork/how-to-grow-decentralized-communities-1bf1044924f8">How to Grow Decentralized Communities</a></p>
 
 The above graphic describes a "contributor's journey" that starts with a brand new participant and takes them along a path of becoming a high-value, trusted pillar of the community. All throughout the journey, they are motivated by the contributor feedback cycle a.k.a. the *contributor loop* as we refer to it in our model. 
 
