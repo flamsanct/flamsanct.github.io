@@ -130,35 +130,35 @@ The goal here is not to create a strict "boss-employee" dynamic; after all, ever
 
 The proposed groups above are a starting point to get us all thinking about how the DAO could be structured.
 
-**Core Team**
+#### Core Team
 
 After launch, the core team is effectively going to be acting as the first and primary working group. The bulk of the areas of responsibility mentioned above will start out under the core team's umbrella. The goal is to hand many of these responsibilities over to community working groups over time. The key distinction between this arrangement and centralized projects without a proper DAO is that the DAO can technically fire the core team any time they like, since they are essentially just a working group with a limited set of revokable privileges. 
 
-**The Council**
+#### The Council
 
 One idea is to have a kind of *oversight* working group  where the group leaders of all other working groups coordinate with one another and make sure efforts are aligned across the organization -- a kind of internal U.N. where a representative from the various autonomous teams can discuss the going concerns. This group could be given special powers in case of emergencies, or perhaps it could be given a veto power for specific types of proposals (e.g. a proposal to drain the treasury). The Architect of the Council (Chief Architect?) could be the closest thing to a community figurehead as there could be in the DAO. 
 
-**The Foundry**
+#### The Foundry
 
 Community engineers. Will work closely with and be supported by the core team as well as the resources the core team develops. An important role for this group could be to help the community develop and execute proposals, which would represent a huge step towards self sufficiency. The Architect of the Foundry could act as a community CTO. 
 
-**The Studio** 
+#### The Studio
 
 Artists, writers, videographers -- anyone with creative skills to offer. Much of how the world will come to look could be dreamed up here. The Architect of the Studio could act as a Creative Director. 
 
-**The Treasury**
+#### The Treasury
 
 Economic oversight and reporting, treasury management, budgeting. Will be important to recruit individuals with strong credentials related to these fields (e.g. ideally at least one CPA). The Architect of the Treasury could act as a type of CFO. 
 
-**The Academy** 
+#### The Academy
 
 This could be an interesting mix of both educators and UX optimizers. The Academy's primary mandate could be to on-board new players, welcome and integrate them into the community, and walk them through their contributor's journey as efficiently as possible, which will involve a mix of strategies and skills. The Architect of the Academy could essentially be the Dean of Education as well as a sort of "Chief Gamification Officer". 
 
-**The Station**
+#### The Station
 
 This is probably one of the first examples of a working group most people would imagine existing since we already have a version of this in the Discord. The community team we already have would likely transition into this working group where they would have more direct oversight by the DAO. We could expand on this to include more efforts to look after the well-being of community members and team members of working groups, including mental health initiatives, conflict resolution (mediation), and establishing community standards. The Architect of the Station would likely fill a role similar to a Community Manager.
 
-**The Embassy**
+#### The Embassy
 
 The Embassy would concentrate on representing the Citadel to the public and growing the playerbase: PR, social account management, growth strategy, collabs, and the like. It could act as a real embassy for guilds and similar gaming communities, as well as handle external recruiting for working group positions if that's ever needed or appropriate. The Architect of the Embassy could be both Chief Ambassador and Chief Marketing Officer. 
 
