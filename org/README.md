@@ -62,19 +62,19 @@ Central to the process of self organization is the ability for all autonomous ac
 
 > A virtual world is an immersive virtual environment that users can psychologically inhabit. 
 
-<p style="font-style: italic; text-align: center; font-size: 14px"><a href="https://encompass.eku.edu/cgi/viewcontent.cgi?article=1018&context=ugra">Projecting the self into a virtual world</a> Smith, 2014</p>
+<p style="font-style: italic; text-align: center; font-size: 14px"><a href="https://encompass.eku.edu/cgi/viewcontent.cgi?article=1018&context=ugra">Projecting the self into a virtual world</a></p>
 
 One characteristic that sets a virtual world apart from many other types of products a DAO might be building is that it is *psychologically inhabitable*. That is, you can have the subjective experience of "occupying" the virtual space. This becomes especially interesting when we think of participating in a DAO as an extension of inhabiting the world in which it owns and builds. 
 
 
-**Self perpetuating** 
+**Self Perpetuating** 
 
 Another characteristic that makes a virtual world a unique product is that like the real world, a virtual world could be said to exist for its own sake (to some degree). Unlike most products that are designed to solve a particular problem, the market fit for a virtual world crosses the threshold of "interactive entertainment" and begins to adopt a self perpetuating will to simply *be*. The [telos](https://en.wikipedia.org/wiki/Telos) of the world is to go on being a world as an expression of the collective will of its autonomous constituents. 
 
 Like a guild, members of the organization may feel they belong to something fun and special they would like to see go on. Like a nation state, denizens of the world may feel invested in the well being of their space and their community. This existential motive competes to some extent with the profit motive that most organizations operate around. This might change the fundamental assumptions we make about what users care about in our project. 
 
 
-**Intrinsically gamified**
+**Intrinsically Gamified**
 
 In a way, applying gamification strategies to non-games requires inventing a pseudo virtual world context in which virtual rewards matter. Why does the user care they are rewarded with achievement titles, badges, points, or other virtual accolades? Beyond superficial dopamine manipulation, virtual rewards and accomplishments only *matter* in relation to the context in which they exist. From the user's perspective, the more meaningful the context the better. Ideally, your rewards are part of a greater system that other people participate in and who are able to see and recognize your rewards as valuable. 
 
@@ -163,7 +163,7 @@ The Embassy would concentrate on representing the Citadel to the public and grow
 
 
 ### In Practice
-The working group model allows us to transition from a situation where every governance decision and use of treasury funds would require a new proposal and DAO-wide vote to a situation where the majority of small to medium sized decisions are made by trusted representatives in the Architect, Arbiter, and Associate roles. This would mean that we could vote on an entire project that would bundle together a dozen separate work items into one. Now there's only one proposal to vote and reach quorom on instead of 12, and we empower dedicated roles to execute and oversee the work as they best see fit without needing to ask for additional permission. 
+The working group model allows us to transition from a situation where every governance decision and use of treasury funds would require a new proposal and DAO-wide vote to a situation where the majority of small to medium sized decisions are made by trusted representatives in the Architect, Arbiter, and Associate roles. This would mean that we could vote on an entire project that would bundle together a dozen separate work items into one. Now there's only one proposal to vote and reach quorom on instead of twelve, and we empower dedicated roles to execute and oversee the work as they best see fit without needing to ask for additional permission. 
 
 For example, we could vote to assign the project of "create a line of 16 new ship skins" to an Arbiter of the Studio and provide them with the use of e.g. 2 ETH to compensate vetted artists within the Studio that hold Associate and Freelancer roles for each skin they contribute. 
 
@@ -213,11 +213,11 @@ Some badges could unlock special content (e.g. unique ship skins), or even be pr
 
 Level|Title | | Level | Title
 --|--|--|--|--
-1| Visitor | | 6| Captain
-2| Citizen | |7| Admiral
-3| Recruit | |8| Commodore
-4| Cadet   | |9| Commander
-5| Ensign  | |10| Fleet Commander
+1| Visitor | | 6| Master Chief
+2| Citizen | |7| Captain
+3| Recruit | |8| Admiral
+4| Cadet   | |9| Commodore
+5| Pilot  | |10| Commander
 
 In most RPG games with a level system, levels generally correspond with reaching a predefined amount of XP and we could borrow the same idea. This allows for quickly identifying how much each member of the community has participated and contributed to the world. 
 
