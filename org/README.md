@@ -1,7 +1,7 @@
 # Organizing the Citadel
 ![Organizing a decentralized virtual world](img/header_alt.png)
 
-The launch of the Citadel will represent a fairly radical experiment in decentralizing a blockchain gaming project. This is acczmplished via the Citadel DAO, to which the majority of both funding and ownership are handed trustlessly via smart contracts on launch day. Once this happens, the founding team will become community members alongside everyone else with the exception of a set of well defined and programmatically revokable privileges appropriate for overseeing the early phases of the game and project. There are many opportunities and challenges that await us on this journey, and it will be up to all of us in the community to decide how we are to meet them. 
+The launch of the Citadel will represent a fairly radical experiment in decentralizing a blockchain gaming project. This is accomplished via the Citadel DAO, to which the majority of both funding and ownership are handed trustlessly via smart contracts on launch day. Once this happens, the founding team will become community members alongside everyone else with the exception of a set of well defined and programmatically revokable privileges appropriate for overseeing the early phases of the game and project. There are many opportunities and challenges that await us on this journey, and it will be up to all of us in the community to decide how we are to meet them. 
 
 
 
@@ -49,12 +49,12 @@ One of the big selling features of a blockchain game is that the pieces of the g
 
 #### Self Organizing
 
-Decentralized and autonomous governance requires a fundamentally self organizing structure. Even if we are to guide this process in the direction of the desired outcomes, with true decentralization and autonomy comes the surrender of control to what emerges spontaneously. In a self organizing, DAO owned virtual world we participate in a creative process that could result in a world and structure that *emerges* as much it is designed. 
+Decentralized and autonomous governance benefits from an agile structure that permits some level of self organization to emerge. Even if we are to guide this process in the direction of the desired outcomes, with true decentralization and autonomy comes the surrender of ultimate control to what emerges spontaneously. In a self organizing, DAO owned virtual world we participate in a creative process that could result in a world and structure that *emerges* as much it is designed. It is probably to our advantage to prioritize flexibility and loose coupling when it comes to designing structure and hierarchy (both of which we still very much need).  
 
 
 #### Co-creative
 
-Central to the process of self organization is the ability for all autonomous actors in the system to modify or build on the system -- to make their own independent contribution. In a virtual world, this means the players (or avatars) of the world have the ability to co-create the world they inhabit collaboratively. Ownership by a DAO is one way to enable co-creation in an on-chain world. This means we should give preference to flexibility and loose coupling when it comes to designing structure and hierarchy. 
+Central to the process of self organization is the ability for all autonomous actors in the system to modify or build on the system -- to make their own independent contribution. In a virtual world, this means the players (or avatars) of the world have the ability to co-create the world they inhabit collaboratively. Ownership by a DAO is one way to enable co-creation in an on-chain world. 
 
 
 ### Virtual World
@@ -70,9 +70,9 @@ One characteristic that sets a virtual world apart from many other types of prod
 
 #### Self Perpetuating
 
-Another characteristic that makes a virtual world a unique product is that like the real world, a virtual world could be said to exist for its own sake (to some degree). Unlike most products that are designed to solve a particular problem, the market fit for a virtual world crosses the threshold of "interactive entertainment" and begins to adopt a self perpetuating will to simply *be*. The [telos](https://en.wikipedia.org/wiki/Telos) of the world is to go on being a world as an expression of the collective will of its autonomous constituents. 
+Another characteristic that makes a virtual world a unique product is that to some extent it may come to possess an independent will to exist. Unlike most products that are designed to solve a particular problem, a virtual world can potentially cross the threshold of an "interactive entertainment" product and begin to adopt a self perpetuating drive to simply *be* as an expression of the collective will of its autonomous constituents. 
 
-Like a guild, members of the organization may feel they belong to something fun and special they would like to see go on. Like a nation state, denizens of the world may feel invested in the well being of their space and their community. This existential motive competes to some extent with the profit motive that most organizations operate around. This might change the fundamental assumptions we make about what users care about in our project. 
+As in a guild, members of the organization may feel they belong to something fun and special they would like to see go on. Like a nation state, denizens of the world may feel invested in the well being of their space and their community. This existential motive competes to some extent with the profit motive that most organizations operate around. This might change the fundamental assumptions we make about what users care about in our project. 
 
 
 #### Intrinsically Gamified
@@ -87,9 +87,9 @@ The Citadel is at the intersection of all the above characteristics, which place
 
 The truly unique aspect of an on-chain DAO owning an on-chain virtual world is that one becomes an inextricable part of the other. Rather than an on-chain game that just so happens to be owned by a DAO, we could instead recognize this to be a singular on-chain world that is owned and operated by its players. It accomplishes this via governance mechanics that  are as native to the world as any other mechanic. 
 
-For example, we'll talk later about a "working group" called the Council, a type of oversight committee for the DAO. Fleet Commander has been "reporting to the Council" from the start of the project from a lore perspective. "The Council" could theoretically exist in-game in some form or another. Voting on proposals occurs in the "Parliament" in the lore, which could also theoretically actually exist in-game -- certainly via an in-game interface. 
+For example, we'll talk later about a proposed "working group" called the Council, a type of oversight committee for the DAO. Fleet Commander has been "reporting to the Council" from the start of the project from a lore perspective. "The Council" could theoretically exist in-game in some form or another. Voting on proposals occurs in the "Parliament" in the lore, which could also theoretically actually exist in-game -- certainly via an in-game interface. The DAO has the capacity to increasingly move from an external abstraction toward an entity that inhabits the world. 
 
-The point is that all the qualities that apply to the virtual world can also apply to the DAO, since they are one in the same. The DAO aspect of this world has far more *potential* to be fun, immersive, and intrinsicially gamified than your typical DAO. The "organization" in our "decentralized autonomous organization" could be said to live and operate in the world it owns and builds -- a decentralized autonomous *world*. 
+The point here is that all the qualities that apply to the virtual world can also apply to the DAO, since they can be viewed as one in the same. The DAO aspect of this world has far more potential to be fun, immersive, and intrinsicially gamified than your typical DAO. The "organization" in our "decentralized autonomous organization" could increasingly live and operate in the world it owns and builds -- a decentralized autonomous *world*. 
 
 The end goal of a decentralized autonomous world is to establish a virtual space where participants can create, play, socialize, learn, and teach. They can collaborate on building the virtual realm they themselves would most like to inhabit. Their contributions, both large and small, can be rewarded in ways that are meaningful both to the virtual world itself and to the real world. Players will not be asked to "play to earn" via joyless mechanics; they will be invited to *inhabit the world* they own and be rewarded for the value they contribute along the way. 
 
@@ -109,22 +109,24 @@ Meanwhile, the goal should be to steadily move toward a 2.0 model with better de
 
 ## Working Groups
 
-One approach other DAO based projects have implemented successfully is the use of working groups. The goal with working groups is to formalize subject domains that are important to the project into functional units that are assigned responsibility for that domain. Using an approach like yearn.fi's [constrained delegation](https://gov.yearn.finance/t/yip-61-governance-2-0/10460), limited executive decision making power can be conditionally granted to individuals that the community trusts to represent them and their best interests. 
+One approach other DAO based projects have implemented successfully is the use of working groups. The purpose of working groups is to formalize subject domains that are important to the project into functional units that are assigned responsibility for that domain. Using an approach like yearn.fi's [constrained delegation](https://gov.yearn.finance/t/yip-61-governance-2-0/10460), limited executive decision making power can be conditionally granted to individuals that the community trusts to represent them and their best interests. 
 
 This approach solves a big problem with self-governance in that a pure direct democracy decision making model doesn't scale very well. With working groups and constrained delegation, we can empower trustworthy and capable community members to act independently on the DAO's behalf. We can define specific roles across the DAO and in each working group that are granted specific privileges appropriate for carrying out the objectives of that role. We can then approve transparent funding for the execution of the role mandate, and hold those using the funds accountable. 
 
-The creation of a privileged role and the assigning of community members to that role will still happen via governance proposals, so each community member still retains a voice in all of this. Meanwhile, the DAO is able to operate efficiently at scale on a day-to day-basis. 
+We could decide to make roles pluralistic in that one individual could be assigned to more than one role if that was feasible given the responsibilities of the role. In this way, "jobs" in the DAO would be more about actively fulfilling the responsibilities of a well defined role than holding a single full-time position by default (not that some roles wouldn't entail full time workloads). 
+
+The creation of a privileged role and the assigning of community members to that role can still happen via governance proposals, so each community member still retains a voice in all of this. Meanwhile, the DAO is able to operate efficiently at scale on a day-to day-basis. 
 
 Some DAOs choose to standardize a type of role hierarchy within working groups which could look something like the below examples:
 
 |Role      | Description      | Required Level|
 |----------|------------------|------|
 |Architect | Working Group Lead | 9    |
-|Arbiter   | Project Lead     | 7    |
+|Facilitator | Project Lead     | 7    |
 |Associate | Working Group Team Member   | 6    | 
 |Freelancer| Quests, One-off tasks | 3    |
 
-The goal here is not to create a strict "boss-employee" dynamic; after all, everyone involved is ultimately from the community and working for the community. Rather, we can optimize for the "minimum viable hierarchy" that enables efficient decision making and provides oversight and accountability for the use of treasury funds. 
+The goal here is not to create a strict boss-employee dynamic; after all, everyone involved is ultimately from the community and working for the community. Rather, we can optimize for the "minimum viable hierarchy" that enables efficient decision making and provides oversight and accountability for the use of treasury funds. 
 
 ![Citadels Working Groups](img/workinggroups.png)
 
@@ -148,7 +150,7 @@ Artists, writers, videographers -- anyone with creative skills to offer. Much of
 
 #### The Treasury
 
-Economic oversight and reporting, treasury management, budgeting. Will be important to recruit individuals with strong credentials related to these fields (e.g. ideally at least one CPA). The Architect of the Treasury could act as a type of CFO. 
+Economic oversight and reporting, treasury management, budgeting. It may be important to recruit individuals with strong credentials related to these fields if possible. The Architect of the Treasury could act as a type of CFO. 
 
 #### The Academy
 
@@ -156,17 +158,17 @@ This could be an interesting mix of both educators and UX optimizers. The Academ
 
 #### The Station
 
-This is probably one of the first examples of a working group most people would imagine existing since we already have a version of this in the Discord. The community team we already have would likely transition into this working group where they would have more direct oversight by the DAO. We could expand on this to include more efforts to look after the well-being of community members and team members of working groups, including mental health initiatives, conflict resolution (mediation), and establishing community standards. The Architect of the Station would likely fill a role similar to a Community Manager.
+This is probably one of the first examples of a working group most people would imagine existing since we already have a version of this in the Discord. The community team we already have would likely transition into this working group where they would have more direct oversight by the DAO. We could expand on this to include extra efforts to look after the well-being of community members and team members of working groups, including mental health initiatives, conflict resolution (mediation), and establishing community standards. The Architect of the Station would likely fill a role similar to a Community Manager.
 
 #### The Embassy
 
-The Embassy would concentrate on representing the Citadel to the public and growing the playerbase: PR, social account management, growth strategy, collabs, and the like. It could act as a real embassy for guilds and similar gaming communities, as well as handle external recruiting for working group positions if that's ever needed or appropriate. The Architect of the Embassy could be both Chief Ambassador and Chief Marketing Officer. 
+The Embassy would concentrate on representing the Citadel to the public and growing the playerbase: PR, social account management, growth strategy, collabs, and the like. It could act as a real embassy for guilds and similar gaming communities, as well as handle external recruiting for working group positions if that's ever needed or appropriate. The Architect of the Embassy could act as both Chief Ambassador and Chief Marketing Officer. 
 
 
 ### In Practice
-The working group model allows us to transition from a situation where every governance decision and use of treasury funds would require a new proposal and DAO-wide vote to a situation where the majority of small to medium sized decisions are made by trusted representatives in the Architect, Arbiter, and Associate roles. This would mean that we could vote on an entire project that would bundle together a dozen separate work items into one. Now there's only one proposal to vote and reach quorom on instead of twelve, and we empower dedicated roles to execute and oversee the work as they best see fit without needing to ask for additional permission. 
+The working group model allows us to transition from a situation where every governance decision and use of treasury funds would require a new proposal and DAO-wide vote to a situation where the majority of small to medium sized decisions are made by trusted representatives in the Architect, Facilitator, and Associate roles. This would mean that we could vote on an entire project that would bundle together a dozen separate work items into one. Now there's only one proposal to vote and reach quorom on instead of twelve, and we empower dedicated roles to execute and oversee the work as they best see fit without needing to ask for additional permission. 
 
-For example, we could vote to assign the project of "create a line of 16 new ship skins" to an Arbiter of the Studio and provide them with the use of e.g. 2 ETH to compensate vetted artists within the Studio that hold Associate and Freelancer roles for each skin they contribute. 
+For example, we could vote to assign the project of "create a line of 18 new ship skins" to a Facilitator of the Studio and provide them with the use of e.g. 2 ETH worth of $ORE to compensate vetted artists within the Studio that hold Associate and Freelancer roles for each skin they contribute. 
 
 Establishing working groups could be a great step towards building a high-functioning decentralized organization. Another idea that we can explore to incentivize participation and community contribution is in expanding the idea of the game world to include the entire organization and community at large by making participation fun and rewarding across the entire ecosystem. 
 
@@ -201,13 +203,13 @@ World XP (experience points) could be a type of point system that represents the
 
 In the game, perhaps taking actions for the first time can be rewarded with XP to mark the progress the player has made by doing something new. However, world XP can't be "grinded" for by repeating the same actions over and over again. 
 
-World XP could also be earned by completing educational courses, participating in DAO governance, contributing to or joining DAO working groups, completing DAO quests, or receiving a community award for positive interaction or contribution (Architects and Arbiters of the Station could hand these out). 
+World XP could also be earned by completing educational courses, participating in DAO governance, contributing to or joining DAO working groups, completing DAO quests, or receiving a community award for positive interaction or contribution (Architects and Facilitators of the Station could hand these out). 
 
 
 ### Achievement Badges
 ![achievement badges](img/badges.png)
 
-The concept of achievement badges takes inspiration from both the in-game achievements most of us are familiar with in modern games as well as <a href="https://poap.xyz/">POAPs</a> (digital mementos). The goal is both to reward valuable, positive actions and contributions as well as to commemorate important steps taken throughout the journey of a community member. They would also be great for recognizing participation in a community event or contest (especially the winners). Many achievements would likely also coincide with earning XP. 
+The concept of achievement badges takes inspiration from both the in-game achievements most of us are familiar with in modern games as well as <a href="https://poap.xyz/">POAPs</a> (digital mementos). The goal is both to reward valuable, positive actions and contributions as well as to commemorate important steps taken throughout the journey of a community member. They would also be great for recognizing participation in a community event or contest. Many achievements would likely also coincide with earning XP. 
 
 Some badges could unlock special content (e.g. unique ship skins), or even be pre-requisites for gaining access to certain levels or roles. This becomes especially relevant when we discuss gamifying education later on. 
 
@@ -225,14 +227,14 @@ In most RPG games with a level system, levels generally correspond with reaching
 
 One use case for levels could be minimum level requirements for gaining access to various community and DAO related privileges. It could make sense for leadership roles in DAO working groups to require minimum levels to even be eligible for consideration. 
 
-Another possibility is that levels that generally coincide with senior or leadership roles (Level 6 and up) can't be earned automatically and require satisfying a set of pre-requisites in order to considered for manual promotion by higher ranking roles in the DAO. With this approach, we could even consider entrusting special privileges to the highest levels like limited moderation powers in Discord. 
+Another possibility is where levels that generally coincide with senior or leadership roles (Level 6 and up) can't be earned automatically and require satisfying a set of pre-requisites in order to considered for manual promotion by higher ranking roles in the DAO. With this approach, we could even consider entrusting special privileges to the highest levels like limited moderation powers in Discord. 
 
 
 ### Quests 
 
 Quests could be any small task that the DAO needs completed. Some may be reoccurring, and some may be a one time deal. The rewards for completing these tasks could be some combination of world XP, $ORE, or possibly future in-game items. Quests represent a great way to get new people to take the leap of making their first formal contribution to the world. 
 
-One interesting possibility is that we could allow aspiring pilots that don't have a ship to level up as high as rank 5 (Pilot) by completing quests and be paid in $ORE. This could eventually allow them to participate in the in-game ship auctions and have a shot at winning a ship of their own, which would then allow them to participate in the rest of the ecosystem. 
+One interesting possibility is that we could allow aspiring pilots that don't have a ship to level up as high as rank 4 (Cadet) by completing quests and be paid in $ORE. This could eventually allow them to participate in the in-game ship auctions and have a shot at winning a ship of their own, which would then allow them to participate in the rest of the ecosystem. 
 
 ## The Game Loop of Autonomous Organizations
 
@@ -265,7 +267,7 @@ One way our Chief Economist [0xHeimdall](https://twitter.com/HDaxos) likes to th
  
 
 ## The Contributor Loop
-A major potential advantage of a decentralized autonomous world project is that it is able to harness and integrate the collective passion and creativity of its participants in real time. The users make the world. Think of how much untapped creative and productive energy is wasted by the millions of fans of traditional franchises who are given neither permission nor outlets to co-create along with the proprietary company. Fan-art of corporate owned IP is more likely to be met with legal action than reward (let alone integration).  The ability to utilize this energy of the commons could be the secret weapon of decentralized creative ventures like the one we're building. 
+A major potential advantage of a decentralized autonomous world project is that it is able to harness and integrate the collective passion and creativity of its participants in real time. Think of how much untapped creative and productive energy is wasted by the millions of fans of traditional franchises who are given neither permission nor outlets to co-create along with the proprietary company. Fan-art of corporate owned IP is more likely to be met with legal action than reward (let alone integration).  The ability to meaningfully utilize this collective creativity could be the secret weapon of decentralized projects like the one we're building. 
 
 The challenge is in how best to facilitate and incentivize high quality community contributions. 
 
@@ -283,7 +285,7 @@ The entry point for a new user should be like the top of a funnel, where we want
 
 One way to assist in aligning talents with opportunities is to empower new users to self signal their interests and expertise by offering the ability to select user-defined roles such as "artist", "coder", "writer", "lore crafter" and so on. This way, coordinators of working groups looking for particular kinds of contributions can filter for these types of individuals. 
 
-Ultimately, the goal is to gamify the contributor's journey as much as possible. An important part of that process will be in offering robust and relevant educational materiels to support contributors along their journey. 
+Ultimately, the goal is to support the contributor on their journey as much as possible. An important part of that process will be in offering robust and relevant educational materiels to support contributors along their journey. 
 
 ## The Learning Loop
 
@@ -355,7 +357,9 @@ This dashboard could be the second major window into the virtual world after the
 
 ## Next Steps
 
-The goal of this paper is to spark the imagination for what the future of the project could look and operate like. As a decentralized project, we all retain a voice in how this unfolds. The first priority is in reaching competency and stability with the launch version of the Citadel structure. To that end, we should all become familiar and comfortable with the current operating model before we look at how we might co-create the next iteration. 
+The goal of this paper is to spark the imagination for what the future of the project could look and operate like. As a decentralized project, we all retain a voice in how this unfolds. The truth is that decentralized governance is a complicated subject that entire careers have been devoted to studying and developing. It's unlikely any one of us will have all the answers, and we should expect to not get everything right the first time. 
+
+The first priority is in reaching competency and stability with the launch version of the Citadel structure. To that end, we should all become familiar and comfortable with the current operating model before we look at how we might co-create the next iteration. 
 
 
 
