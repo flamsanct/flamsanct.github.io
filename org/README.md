@@ -20,7 +20,7 @@ Will the launch version of the Citadel constitute a proper virtual world? One me
 >A persistent, simulated and immersive environment, facilitated by networked
 computers, providing multiple users with avatars and communication tools with which to act
 and interact in-world and in real-time.
-<p style="font-size: 16px; text-align:center; font-style:italic"><a href="https://www.scss.tcd.ie/publications/tech-reports/reports.13/TCD-CS-2013-10.pdf">What is a Virtual World: Definition and Classification</a></p>
+<p style="text-align:center; font-style:italic"><a href="https://www.scss.tcd.ie/publications/tech-reports/reports.13/TCD-CS-2013-10.pdf">What is a Virtual World: Definition and Classification</a></p>
 
 Under this definition, the Citadel could arguably fall under the category of virtual worlds that were common in the 80s and 90s which relied heavily on text-based and 2D interfaces. At launch, perhaps we've reached a "minimum viable world" threshold, and we will undoubtedly move in the direction of ever more depth and immersive features after launch. 
 
@@ -63,7 +63,7 @@ Central to the process of self organization is the ability for all autonomous ac
 
 > A virtual world is an immersive virtual environment that users can psychologically inhabit. 
 
-<p style="font-style: italic; text-align: center; font-size: 16px"><a href="https://encompass.eku.edu/cgi/viewcontent.cgi?article=1018&context=ugra">Projecting the self into a virtual world</a></p>
+<p style="font-style: italic; text-align: center;"><a href="https://encompass.eku.edu/cgi/viewcontent.cgi?article=1018&context=ugra">Projecting the self into a virtual world</a></p>
 
 One characteristic that sets a virtual world apart from many other types of products a DAO might be building is that it is *psychologically inhabitable*. That is, you can have the subjective experience of "occupying" the virtual space. This becomes especially interesting when we think of participating in a DAO as an extension of inhabiting the world in which it owns and builds. 
 
@@ -89,7 +89,7 @@ The truly unique aspect of an on-chain DAO owning an on-chain virtual world is t
 
 For example, we'll talk later about a proposed "working group" called the Council, a type of oversight committee for the DAO. Fleet Commander has been "reporting to the Council" from the start of the project from a lore perspective. "The Council" could theoretically exist in-game in some form or another. Voting on proposals occurs in the "Parliament" in the lore, which could also theoretically actually exist in-game -- certainly via an in-game interface. The DAO has the capacity to increasingly move from an external abstraction toward an entity that inhabits the world. 
 
-The point here is that all the qualities that apply to the virtual world can also apply to the DAO, since they can be viewed as one in the same. The DAO aspect of this world has far more potential to be fun, immersive, and intrinsicially gamified than your typical DAO. The "organization" in our "decentralized autonomous organization" could increasingly live and operate in the world it owns and builds -- a decentralized autonomous *world*. 
+The point here is that all the qualities that apply to the virtual world can also apply to the DAO, since they can be viewed as one in the same. The DAO aspect of this world has unique potential to be fun, immersive, and intrinsicially gamified. The "organization" in our "decentralized autonomous organization" could increasingly inhabit and operate in the world it owns and builds and becomes a kind of a decentralized autonomous *world*. 
 
 The end goal of a decentralized autonomous world is to establish a virtual space where participants can create, play, socialize, learn, and teach. They can collaborate on building the virtual realm they themselves would most like to inhabit. Their contributions, both large and small, can be rewarded in ways that are meaningful both to the virtual world itself and to the real world. Players will not be asked to "play to earn" via joyless mechanics; they will be invited to *inhabit the world* they own and be rewarded for the value they contribute along the way. 
 
@@ -100,7 +100,7 @@ Let's first look at some ideas on how we could go about structuring the DAO.
 
 ## Evolving the DAO
 ![DA0 Models](img/dao20.png)
-<p style="text-align:center; font-size: 16px;">Source: 1kxnetwork's excellent <a style="font-style: italic" href="https://medium.com/1kxnetwork/organization-legos-the-state-of-dao-tooling-866b6879e93e">Organization Legos: The State of DAO Tooling</a></p>
+<p style="text-align:center; font-style: italic">Source: 1kxnetwork's excellent <a style="" href="https://medium.com/1kxnetwork/organization-legos-the-state-of-dao-tooling-866b6879e93e">Organization Legos: The State of DAO Tooling</a></p>
 
 When we look at what the above chart refers to as a DAO 1.0 versus a DAO 2.0, the launch version of Citadel DAO will land closer to the 1.0 model. The majority of day-to-day project management will still be concentrated with the core team and community decision making will usually come down to a DAO-wide democratic vote on a proposal. So there will be DAO 1.0 way of getting things done initially, and the team will provide as much documentation about how to go about this as possible. 
 
@@ -236,6 +236,8 @@ Quests could be any small task that the DAO needs completed. Some may be reoccur
 
 One interesting possibility is that we could allow aspiring pilots that don't have a ship to level up as high as rank 4 (Cadet) by completing quests and be paid in $ORE. This could eventually allow them to participate in the in-game ship auctions and have a shot at winning a ship of their own, which would then allow them to participate in the rest of the ecosystem. 
 
+This is the (*n*th) ship that 0xHeimdall has gunned down so far. 
+
 ## The Game Loop of Autonomous Organizations
 
  We've thus far established that A DAO structure based on working groups brings us much closer to a functional operating framework as an organization. A universal achievement system provides a toolkit of fun, non-financial rewards that can be used to gamify any part of the ecosystem and motivate collective autonomous action taking. But if we are to take this idea of a truly self sufficient, decentralized autonomous world seriously, we need to think about how it will actually operate as a holistic system. 
@@ -273,7 +275,7 @@ The challenge is in how best to facilitate and incentivize high quality communit
 
 
 ![Contributor's Journey](img/contributors_journey.png)
-<p style="text-align:center; font-size: 16px;">Source:  1kxnetwork <a style="font-style: italic" href="https://medium.com/1kxnetwork/how-to-grow-decentralized-communities-1bf1044924f8">How to Grow Decentralized Communities</a></p>
+<p style="text-align:center; font-style: italic">Source:  1kxnetwork <a href="https://medium.com/1kxnetwork/how-to-grow-decentralized-communities-1bf1044924f8">How to Grow Decentralized Communities</a></p>
 
 The above graphic describes a "contributor's journey" that starts with a brand new participant and takes them along a path of becoming a high-value, trusted pillar of the community. All throughout the journey, they are motivated by the contributor feedback cycle a.k.a. the *contributor loop* as we refer to it in our model. 
 
