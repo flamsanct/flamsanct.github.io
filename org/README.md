@@ -236,7 +236,6 @@ Quests could be any small task that the DAO needs completed. Some may be reoccur
 
 One interesting possibility is that we could allow aspiring pilots that don't have a ship to level up as high as rank 4 (Cadet) by completing quests and be paid in $ORE. This could eventually allow them to participate in the in-game ship auctions and have a shot at winning a ship of their own, which would then allow them to participate in the rest of the ecosystem. 
 
-This is the (*n*th) ship that 0xHeimdall has gunned down so far. 
 
 ## The Game Loop of Autonomous Organizations
 
