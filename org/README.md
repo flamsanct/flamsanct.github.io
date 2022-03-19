@@ -359,7 +359,7 @@ This dashboard could be the second major window into the virtual world after the
 
 ## Next Steps
 
-The goal of this paper is to spark the imagination for what the future of the project could look and operate like. As a decentralized project, we all retain a voice in how this unfolds. The truth is that decentralized governance is a complicated subject that entire careers have been devoted to studying and developing. It's unlikely any one of us will have all the answers, and we should expect to not get everything right the first time. 
+The goal of this paper is to spark the imagination for what the future of the project could look and operate like. As a decentralized project, we all retain a voice in how this unfolds. The truth is that decentralized governance is a complicated subject and it's unlikely any one of us will have all the answers.
 
 The first priority is in reaching competency and stability with the launch version of the Citadel structure. To that end, we should all become familiar and comfortable with the current operating model before we look at how we might co-create the next iteration. 
 
