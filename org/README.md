@@ -242,7 +242,7 @@ This is the (*n*th) ship that 0xHeimdall has gunned down so far.
 
  We've thus far established that A DAO structure based on working groups brings us much closer to a functional operating framework as an organization. A universal achievement system provides a toolkit of fun, non-financial rewards that can be used to gamify any part of the ecosystem and motivate collective autonomous action taking. But if we are to take this idea of a truly self sufficient, decentralized autonomous world seriously, we need to think about how it will actually operate as a holistic system. 
 
-![The World Engine](img/worldengine.png)
+![The World Engine](img/worldloop.png)
 
 One way to envision a self perpetuating, self organizing autonomous world is as a loop of loops. In the above diagram, we can identify three separate loops that all feed into each other to form one master "game loop" of the overall system. 
 
