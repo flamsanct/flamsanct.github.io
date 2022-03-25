@@ -247,7 +247,7 @@ One way to envision a self perpetuating, self organizing autonomous world is as 
 
 1. The **economic loop** is powered by and contains the actual game loop. Value  is captured from all economic activities related to the game world into the DAO treasury, which underpins the integrity of the greater ecosystem. This loop funds the development of the game, the DAO, and educational resources in addition to rewarding positive contributions.
 
-2. The **contributor loop** guides new participants down the down the path toward greater engagement and contribution to the project, ultimately culminating in high value core contributor and leadership positions in the DAO. This is where all the core building happens, including supporting and growing the economic and educational loops. 
+2. The **contributor loop** guides new participants down the path toward greater engagement and contribution to the project, ultimately culminating in high value core contributor and leadership positions in the DAO. This is where all the core building happens, including supporting and growing the economic and educational loops. 
 
 3. The **learning loop** gamifies learning and integrates it all throughout the virtual world. Learning can be incentivized via a gamified reward system where progression through the educational materiels will yield rewards elsewhere in the ecosystem. The overall goal is to onboard more new participants and help them to become outstanding community members as quickly as possible.  
 
