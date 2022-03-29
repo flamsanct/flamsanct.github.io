@@ -180,7 +180,7 @@ First and foremost, the goal of gamification should not be to dumb anything down
 
 1. **Optimize** the user experience across all points of contact in the organization. Find ways to remove friction from all processes, clear away barriers and bloat, and streamline interfaces. 
 
-2. **Incentivize** positive sum action taking amongst free actors. Identify the most important actions or contributions and explicitly recognizing their value via formalized rewards. 
+2. **Incentivize** positive sum action taking amongst free actors. Identify the most important actions or contributions and explicitly recognize their value via formalized rewards. 
 
 Incentives that convey an increased sense of ownership, social status or recognition, or other intangible rewards should be used wherever possible as these will motivate individuals who are *intrinsically* motivated (long term interest in the project) vs. financial rewards that will appeal more to those who are *extrinsically* motivated (short-term interest, self serving). 
 
