@@ -138,23 +138,23 @@ After launch, the core team is effectively going to be acting as the first and p
 
 #### The Council
 
-One idea is to have a kind of *oversight* working group  where the group leaders of all other working groups coordinate with one another and make sure efforts are aligned across the organization -- a kind of internal U.N. where a representative from the various autonomous teams can discuss the going concerns. This group could be given special powers in case of emergencies, or perhaps it could be given a veto power for specific types of proposals (e.g. a proposal to drain the treasury). The Architect of the Council (Chief Architect?) could be the closest thing to a community figurehead as there could be in the DAO. 
+One idea is to have a kind of *oversight* working group  where the group leaders of all other working groups coordinate with one another and make sure efforts are aligned across the organization -- a kind of internal U.N. where a representative from the various autonomous teams can discuss the going concerns. This group could be given special powers in case of emergencies, or perhaps it could be given a veto power for specific types of proposals (e.g. a proposal to drain the treasury). The Architect of the Council could be the closest thing to a community figurehead as there could be in the DAO. 
 
 #### The Foundry
 
-Community engineers. Will work closely with and be supported by the core team as well as the resources the core team develops. An important role for this group could be to help the community develop and execute proposals, which would represent a huge step towards self sufficiency. The Architect of the Foundry could act as a community CTO. 
+Community engineers. Will work closely with and be supported by the core team as well as the resources the core team develops. An important role for this group could be to help the community develop and execute proposals, which would represent a huge step towards self sufficiency. 
 
 #### The Studio
 
-Artists, writers, videographers -- anyone with creative skills to offer. Much of how the world will come to look could be dreamed up here. The Architect of the Studio could act as a Creative Director. 
+Artists, writers, videographers -- anyone with creative skills to offer. Much of how the world will come to look could be dreamed up here. 
 
 #### The Treasury
 
-Economic oversight and reporting, treasury management, budgeting. It may be important to recruit individuals with strong credentials related to these fields if possible. The Architect of the Treasury could act as a type of CFO. 
+Economic oversight and reporting, treasury management, budgeting. It may be important to recruit individuals with strong credentials related to these fields if possible.
 
 #### The Academy
 
-This could be an interesting mix of both educators and UX optimizers. The Academy's primary mandate could be to on-board new players, welcome and integrate them into the community, and walk them through their contributor's journey as efficiently as possible, which will involve a mix of strategies and skills. The Architect of the Academy could essentially be the Dean of Education as well as a sort of "Chief Gamification Officer". 
+This could be an interesting mix of both educators and UX optimizers. The Academy's primary mandate could be to on-board new players, welcome and integrate them into the community, and walk them through their contributor's journey as efficiently as possible, which will involve a mix of strategies and skills. The Architect of the Academy could essentially be the Dean of Education as well as a sort of "Head of Gamification"
 
 #### The Station
 
@@ -162,7 +162,7 @@ This is probably one of the first examples of a working group most people would 
 
 #### The Embassy
 
-The Embassy would concentrate on representing the Citadel to the public and growing the playerbase: PR, social account management, growth strategy, collabs, and the like. It could act as a real embassy for guilds and similar gaming communities, as well as handle external recruiting for working group positions if that's ever needed or appropriate. The Architect of the Embassy could act as both Chief Ambassador and Chief Marketing Officer. 
+The Embassy would concentrate on representing the Citadel to the public and growing the playerbase: PR, social account management, growth strategy, collabs, and the like. It could act as a real embassy for guilds and similar gaming communities, as well as handle external recruiting for working group positions if that's ever needed or appropriate. The Architect of the Embassy could act as both Chief Ambassador and PR Specialist. 
 
 
 ### In Practice
