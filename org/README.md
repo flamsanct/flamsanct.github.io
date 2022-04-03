@@ -39,7 +39,7 @@ Decentralized | Autonomous | Intrinsically gamified
 
 #### Immutable and Persistent
 
-A major benefit of a persistent world living on the blockchain is that is benefits from the [anti-fragile persistence](/persistence/) inherent to blockchains. Of all the types of games, virtual worlds benefit from robust persistance provided by the blockchain most. Unlike many current blockchain games and metaverse projects, on-chain games host *all* of their game assets and game state on-chain. The events of the world are recorded in an immutable ledger by default. Theoretically, this allows an on-chain persistent world to live on indefinitely. 
+A major benefit of a persistent world living on the blockchain is that it benefits from the [anti-fragile persistence](/persistence/) inherent to blockchains. Of all the types of games, virtual worlds benefit from robust persistance provided by the blockchain most. Unlike many current blockchain games and metaverse projects, on-chain games host *all* of their game assets and game state on-chain. The events of the world are recorded in an immutable ledger by default. Theoretically, this allows an on-chain persistent world to live on indefinitely. 
 
 #### The World is Virtual, the Value is Real
 
@@ -264,7 +264,7 @@ The economic engine is powered by three different kinds of "activity motors":
 
 3. **Community activity** represents the collective actions of all participants in the ecosystem and where the most value creation happens. Funding from in-game and market activity is invested into developing the game, DAO, educational resources, and any other community assets. 
 
-One way our Chief Economist [0xHeimdall](https://twitter.com/HDaxos) likes to think of the DAO treasury is as a type of economic flywheel that is able to frictionlessly capture a portion of the value spun off of the various activity motors for long term storage. This long term store of value provides real backing to the floor price of game assets (NFTs) and bolsters overall economic stability of the ecosystem.  So long as the the greater world loop is firing on all cylinders, this economic flywheel could theoretically keep accelerating as the value of the overall ecosystem increases. 
+One way our Chief Economist [0xHeimdall](https://twitter.com/HDaxos) likes to think of the DAO treasury is as a type of economic flywheel that is able to frictionlessly capture a portion of the value spun off of the various activity motors for long term storage. This long term store of value provides real backing to the floor price of game assets (NFTs) and bolsters overall economic stability of the ecosystem.  So long as the greater world loop is firing on all cylinders, this economic flywheel could theoretically keep accelerating as the value of the overall ecosystem increases. 
  
 
 ## The Contributor Loop
