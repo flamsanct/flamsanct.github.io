@@ -18,7 +18,7 @@ This game is our baby, and our sole focus is building it out the best we possibl
 
 - **Code audit**: We have partnered with Solidity Finance to professionally audit all contracts to the same standard and rigor as any serious DeFi product. The audit will be 100% complete and passed prior to mint. All future updates will be subject to additional auditing as part of our on-going partnership. 
 
-- **Economic design audit:** We have also partnered with Machinations who utilize their cutting-edge Monte Carlo simulation technology and professional economic expertise to model and audit our economic design. After several months of testing and revising the model, we are now the first on-chain game to receive their game economy health verificiation seal. 
+- **Economic design audit:** We have also partnered with Machinations who utilize their cutting-edge Monte Carlo simulation technology and professional economic expertise to model and audit our economic design. After several months of testing and revising the model, we are now the first on-chain game to receive their game economy health verification seal. 
 
 - **Community owned:** To ensure the community's best interests are protected, we’ve designed all of our contracts so that we can relinquish upgrade permission and AccessControl admin roles to the DAO, while still retaining non-admin permissions. This allows us to add surprises to the game, but also gives the DAO the power to remove those rights, as well as our portion of royalties, if the community chooses.
 
@@ -39,7 +39,7 @@ As a miner, you will make your living by warping to asteroid belts and mining th
 
 ## Marauders
 
-As a marauder, you will make ends meet by robbing miners and utilizing systemic corruption. After travelling to an asteroid belt and stationing your ship, you will be inducted into the local crime ring. By colluding with local transport ship staff, you will siphon off some of the miners' hard-earned ore for yourself. Additionally, you will assist in the ring's attempts to gun down returning miners who refuse to pay their protection tribute, granting you a much more significant portion of their ore.
+As a marauder, you will make ends meet by robbing miners and utilizing systemic corruption. After traveling to an asteroid belt and stationing your ship, you will be inducted into the local crime ring. By colluding with local transport ship staff, you will siphon off some of the miners' hard-earned ore for yourself. Additionally, you will assist in the ring's attempts to gun down returning miners who refuse to pay their protection tribute, granting you a much more significant portion of their ore.
 
 Regardless of your career path, you will face choices as you select where to travel, when to perform upgrades, and how to increase your wealth relative to your fellow pilots. To succeed you will need take into account the strengths and weaknesses of the ship you're piloting, your tolerance for risk, and your limitations as a player.
 
@@ -143,7 +143,7 @@ When completing their mining operations, miners must either call a transport shi
 
 In the regions where they are available, transport ships are able to deposit ore immediately on behalf of miners. However, their captains are corrupt and will immediately deduct a portion of the ore earnings and split it among the marauders at that belt, if there are any. Corruption varies from belt to belt, but is generally higher in more distant regions. If there are no marauders at a belt when a miner claims, all funds are deposited immediately, without any deduction.
 
-### The Risky Option: Take a Perlious Journey
+### The Risky Option: Take a Perilous Journey
 
 When transport ships are not available, or to avoid feeding into the corrupt system, a miner may choose to return to The Citadel themselves in order to deposit their ore. For the most part, miners are successful when choosing this option, but they do have to account for the travel time and fuel involved. Still, if there are marauders at their asteroid belt, there is small chance that they are robbed for a portion of their funds, and a sliver of a chance that their ship is gunned down and destroyed permanently. As with transport ships, the exact odds of each outcome vary by region, and there is no risk at all if the asteroid belt in question is clear of marauders.
 
