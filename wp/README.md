@@ -8,7 +8,7 @@ Like many of the games that have come before it, The Citadel uses NFTs to repres
 
 The Citadel also takes inspiration from the decentralization that is commonplace in DeFi projects, adopting a community-first governance model with a true on-chain DAO and reduced owner privileges. Upon the launch of the game, the DAO will be trustlessly handed ownership of the game contracts and the treasury will be funded with a full 70% of the proceeds of the mint. At this point, the team joins the community as fellow players that will continue to build the future of The Citadel alongside the community. 
 
-# Message From the Developers
+# Message from the Developers
 
 The Citadel is the passion project of an experienced group of developers, artists, and space fans who want to push the limits of what's possible with on-chain games. As dedicated EVE players, it has been our dream to make a space game with a proper economy for a long time. When NFTs emerged as a means of letting players trade their assets freely, we knew it was time to see the vision through. 
 
