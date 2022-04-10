@@ -183,7 +183,9 @@ To make quotes simpler, The Citadel's technicians have created a set of tiers to
 
 Each ship is built with different traits that define a unique set of tradeoffs. To bolster their strategies and develop new tactics, many pilots will want multiple ships under their command. The Citadel's government understands this, and has instructed their technicians to offer a reserve of additional ships of both new and refurbished models from all manufacturers. 
 
-In an effort to keep the economy stable, The Citadel's government has elected not to set prices. Instead, an auction will be held each week where a small batch of the completed ships will be sold to the highest ore bidders. This allows the value of a ship to be set naturally by the community of pilots. Of the ore the government receives, 67% will be burnt due to bureaucracy and 33% will be sent to The Citadel's parliament treasury, where all pilots will vote on how it is used or whether it is burnt.
+In an effort to keep the economy stable, The Citadel's government has elected not to set prices. Instead, a blind auction will be held each week where pilots submit sealed bids for the amount of ore they are willing to pay per ship. Only a small number of ships will be offered each week, and each pilot may only bid on up to three ships per auction. This unique auction process will prevent those richest in ore from manipulating the bidding action and ensure all pilots pay the lowest possible price. As a result, the value of a ship is set naturally and dynamically by the community of pilots. 
+
+Of the ore the government receives, 67% will be burnt due to bureaucracy and 33% will be sent to The Citadel's parliament treasury, where all pilots will vote on how it is used or whether it is burnt.
 
 # Governance
 
