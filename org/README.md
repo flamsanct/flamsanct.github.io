@@ -1,5 +1,5 @@
 # Organizing the Citadel
-![Organizing a decentralized virtual world](img/header_alt.png)
+![Organizing a decentralized virtual world](img/header_i.png)
 
 The launch of the Citadel will represent a fairly radical experiment in decentralizing a blockchain gaming project. This is accomplished via the Citadel DAO, to which the majority of both funding and ownership are handed trustlessly via smart contracts on launch day. Once this happens, the founding team will become community members alongside everyone else with the exception of a set of well defined and programmatically revokable privileges appropriate for overseeing the early phases of the game and project. There are many opportunities and challenges that await us on this journey, and it will be up to all of us in the community to decide how we are to meet them. 
 
@@ -115,7 +115,7 @@ This approach solves a big problem with self-governance in that a pure direct de
 
 We could decide to make roles pluralistic in that one individual could be assigned to more than one role if that was feasible given the responsibilities of the role. In this way, "jobs" in the DAO would be more about actively fulfilling the responsibilities of a well defined role than holding a single full-time position by default (not that some roles wouldn't entail full time workloads). 
 
-The creation of a privileged role and the assigning of community members to that role can still happen via governance proposals, so each community member still retains a voice in all of this. Meanwhile, the DAO is able to operate efficiently at scale on a day-to day-basis. 
+The creation of a privileged role and the assigning of community members to that role can still happen via governance proposals, so each community member retains a voice in all of this. Meanwhile, the DAO is able to operate efficiently at scale on a day-to day-basis. 
 
 Some DAOs choose to standardize a type of role hierarchy within working groups which could look something like the below examples:
 
@@ -128,7 +128,7 @@ Some DAOs choose to standardize a type of role hierarchy within working groups w
 
 The goal here is not to create a strict boss-employee dynamic; after all, everyone involved is ultimately from the community and working for the community. Rather, we can optimize for the "minimum viable hierarchy" that enables efficient decision making and provides oversight and accountability for the use of treasury funds. 
 
-![Citadels Working Groups](img/workinggroups.png)
+![Citadels Working Groups](img/workinggroups_i.png)
 
 The proposed groups above are a starting point to get us all thinking about how the DAO could be structured.
 
@@ -180,7 +180,7 @@ First and foremost, the goal of gamification should not be to dumb anything down
 
 1. **Optimize** the user experience across all points of contact in the organization. Find ways to remove friction from all processes, clear away barriers and bloat, and streamline interfaces. 
 
-2. **Incentivize** positive sum action taking amongst free actors. Identify the most important actions or contributions and explicitly recognizing their value via formalized rewards. 
+2. **Incentivize** positive sum action taking amongst free actors. Identify the most important actions or contributions and explicitly recognize their value via formalized rewards. 
 
 Incentives that convey an increased sense of ownership, social status or recognition, or other intangible rewards should be used wherever possible as these will motivate individuals who are *intrinsically* motivated (long term interest in the project) vs. financial rewards that will appeal more to those who are *extrinsically* motivated (short-term interest, self serving). 
 
@@ -188,9 +188,9 @@ In this way, we can define gamification as the design of positive sum feedback l
 
 ## A Universal Achievement System
 
-At the heart of the gamification strategy could be an achievement system that provides primarily non-financial recognition and rewards for positive contributions and behavior throughout the entire ecosystem. You, the player, are the "character" or "avatar" of this system that earns achievement badges, XP, levels, and special roles. These achievements and titles could follow you around wherever you go in the virtual world, potentially unlocking access to restricted content, privileges, and exclusive benefits. 
+At the heart of the gamification strategy could be an achievement system that provides primarily non-financial recognition and intrinsic rewards for positive contributions and behavior throughout the entire ecosystem. You, the player, are the "character" or "avatar" of this system that earns achievement badges, XP, levels, and special roles. These achievements and titles could follow you around wherever you go in the virtual world, potentially unlocking access to restricted content, privileges, and exclusive benefits. 
 
-![Universal Achievements](img/achievements.png)
+![Universal Achievements](img/achievements_i.png)
 
 In a way, these universal achievements constitute your performance history and record as a player and community member. All your accomplishments would ideally be publicly visible across the primary interfaces. In Discord, this could be represented with special roles and titles. In the game interface, there could be a "trophy room" that displays all your accolades and stats, and perhaps these things could be visible to other players via your in-game profile. Or perhaps there's a dedicated "community dashboard", which we'll explore more later. 
 
@@ -207,7 +207,7 @@ World XP could also be earned by completing educational courses, participating i
 
 
 ### Achievement Badges
-![achievement badges](img/badges.png)
+![achievement badges](img/badges_i.png)
 
 The concept of achievement badges takes inspiration from both the in-game achievements most of us are familiar with in modern games as well as <a href="https://poap.xyz/">POAPs</a> (digital mementos). The goal is both to reward valuable, positive actions and contributions as well as to commemorate important steps taken throughout the journey of a community member. They would also be great for recognizing participation in a community event or contest. Many achievements would likely also coincide with earning XP. 
 
@@ -227,7 +227,7 @@ In most RPG games with a level system, levels generally correspond with reaching
 
 One use case for levels could be minimum level requirements for gaining access to various community and DAO related privileges. It could make sense for leadership roles in DAO working groups to require minimum levels to even be eligible for consideration. 
 
-Another possibility is where levels that generally coincide with senior or leadership roles (Level 6 and up) can't be earned automatically and require satisfying a set of pre-requisites in order to considered for manual promotion by higher ranking roles in the DAO. With this approach, we could even consider entrusting special privileges to the highest levels like limited moderation powers in Discord. 
+Another possibility is with levels that generally coincide with senior or leadership roles (Level 6 and up) can't be earned automatically and require satisfying a set of pre-requisites in order to considered for manual promotion by higher ranking roles in the DAO. With this approach, we could even consider entrusting special privileges to the highest levels like limited moderation powers in Discord. 
 
 
 ### Quests 
@@ -241,7 +241,7 @@ One interesting possibility is that we could allow aspiring pilots that don't ha
 
  We've thus far established that A DAO structure based on working groups brings us much closer to a functional operating framework as an organization. A universal achievement system provides a toolkit of fun, non-financial rewards that can be used to gamify any part of the ecosystem and motivate collective autonomous action taking. But if we are to take this idea of a truly self sufficient, decentralized autonomous world seriously, we need to think about how it will actually operate as a holistic system. 
 
-![The World Engine](img/worldloop.png)
+![The World Engine](img/worldloop_i.png)
 
 One way to envision a self perpetuating, self organizing autonomous world is as a loop of loops. In the above diagram, we can identify three separate loops that all feed into each other to form one master "game loop" of the overall system. 
 
@@ -254,7 +254,7 @@ One way to envision a self perpetuating, self organizing autonomous world is as 
 Let's discuss each piece in more detail.
 
 ## The Economic Loop
-![The Flywheel](img/flywheel.png)
+![The Flywheel](img/flywheel_i.png)
 
 The economic engine is powered by three different kinds of "activity motors": 
 
@@ -272,15 +272,15 @@ A major potential advantage of a decentralized autonomous world project is that 
 
 The challenge is in how best to facilitate and incentivize high quality community contributions. 
 
+<p style="text-align: center"><img src="img/contributors_journey.png" /></p>
 
-![Contributor's Journey](img/contributors_journey.png)
 <p style="text-align:center; font-style: italic">Source:  1kxnetwork <a href="https://medium.com/1kxnetwork/how-to-grow-decentralized-communities-1bf1044924f8">How to Grow Decentralized Communities</a></p>
 
 The above graphic describes a "contributor's journey" that starts with a brand new participant and takes them along a path of becoming a high-value, trusted pillar of the community. All throughout the journey, they are motivated by the contributor feedback cycle a.k.a. the *contributor loop* as we refer to it in our model. 
 
 The goal is to allow users to self identify their strengths and talents and then align them as quickly and efficiently as possible with educational materiels and contribution opportunities related to those talents. Those contributions are then rewarded, which in turn incentives the seeking of new opportunities to contribute. 
 
-![The Contributor Funnel](img/contributor_funnel.png)
+![The Contributor Funnel](img/contributor_funnel_i.png)
 
 The entry point for a new user should be like the top of a funnel, where we want to highlight the various opportunities to participate and contribute and then point newcomers in that direction. Ideally, there are clear  call-to-actions for the different contribution opportunities right from the first point of entry. The goal is to move them from becoming aware of the project, to engaging with the community on some level, to making their first meaningful act of contribution to the community. 
 
@@ -294,7 +294,7 @@ One important aspect of improving the on-boarding process is to not only *offer*
 
 At a minimum, we will want accessible guides and documentation on everything related to the game and DAO. We could then take it a step further by extending our gamified systems to the learning process. 
 
-![The Learning Loop](img/learning_loop.png)
+![The Learning Loop](img/learning_loop_i.png)
 
 We could create a series of courses that players would  progress through and "pass". Passing a course could be incentivized by a number of types of rewards:
 
