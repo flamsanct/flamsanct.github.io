@@ -1,4 +1,4 @@
- # What is The Citadel?
+# What is The Citadel?
 
 ![The Citadel](img/anim_citadel.gif)
 
@@ -93,7 +93,7 @@ Exodus ships are anomalous. Their traits far surpass those of standard and noble
 
 ![Scan results](img/designation_officer.gif)
 
-The Citadel has received ship sighting reports that describe phenomena that are all but beyond their technicians' comprehension. Seemingly, these ships and their pilots have capabilities in a class of their own. The ships are described as vastly superior to even the best exodus ships, but sightings are rare and it is assumed there are very few examples of these peculiar craft in operation. Rumors circulate that these are the personal craft of clandestine elites in positions of power, and have thus been designated as officer ships. 
+The Citadel has received ship sighting reports describing phenomena all but beyond their technicians' comprehension. Seemingly, these ships and their pilots have capabilities in a class of their own. The ships are described as vastly superior to even the best exodus ships, but sightings are rare and it is assumed there are very few examples of these peculiar craft in operation. Rumors circulate that these are the personal craft of clandestine elites in positions of power, and have thus been designated as officer ships. 
 
 ### Ship Manufacturers
 
@@ -103,7 +103,6 @@ Below is the Citadel's file on all known vessels of a zealous, war-like marauder
 
 ![Ship line chart](img/cult_grid.png)
 
-<p style="text-align:center; font-style:italic">Singulon Warships</p>
 
 
 # Regions
