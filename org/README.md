@@ -1,5 +1,5 @@
 # Organizing the Citadel
-![Organizing a decentralized virtual world](img/header_alt.png)
+![Organizing a decentralized virtual world](img/header_i.png)
 
 The launch of the Citadel will represent a fairly radical experiment in decentralizing a blockchain gaming project. This is accomplished via the Citadel DAO, to which the majority of both funding and ownership are handed trustlessly via smart contracts on launch day. Once this happens, the founding team will become community members alongside everyone else with the exception of a set of well defined and programmatically revokable privileges appropriate for overseeing the early phases of the game and project. There are many opportunities and challenges that await us on this journey, and it will be up to all of us in the community to decide how we are to meet them. 
 
@@ -128,7 +128,7 @@ Some DAOs choose to standardize a type of role hierarchy within working groups w
 
 The goal here is not to create a strict boss-employee dynamic; after all, everyone involved is ultimately from the community and working for the community. Rather, we can optimize for the "minimum viable hierarchy" that enables efficient decision making and provides oversight and accountability for the use of treasury funds. 
 
-![Citadels Working Groups](img/workinggroups.png)
+![Citadels Working Groups](img/workinggroups_i.png)
 
 The proposed groups above are a starting point to get us all thinking about how the DAO could be structured.
 
@@ -190,7 +190,7 @@ In this way, we can define gamification as the design of positive sum feedback l
 
 At the heart of the gamification strategy could be an achievement system that provides primarily non-financial recognition and rewards for positive contributions and behavior throughout the entire ecosystem. You, the player, are the "character" or "avatar" of this system that earns achievement badges, XP, levels, and special roles. These achievements and titles could follow you around wherever you go in the virtual world, potentially unlocking access to restricted content, privileges, and exclusive benefits. 
 
-![Universal Achievements](img/achievements.png)
+![Universal Achievements](img/achievements_i.png)
 
 In a way, these universal achievements constitute your performance history and record as a player and community member. All your accomplishments would ideally be publicly visible across the primary interfaces. In Discord, this could be represented with special roles and titles. In the game interface, there could be a "trophy room" that displays all your accolades and stats, and perhaps these things could be visible to other players via your in-game profile. Or perhaps there's a dedicated "community dashboard", which we'll explore more later. 
 
@@ -207,7 +207,7 @@ World XP could also be earned by completing educational courses, participating i
 
 
 ### Achievement Badges
-![achievement badges](img/badges.png)
+![achievement badges](img/badges_i.png)
 
 The concept of achievement badges takes inspiration from both the in-game achievements most of us are familiar with in modern games as well as <a href="https://poap.xyz/">POAPs</a> (digital mementos). The goal is both to reward valuable, positive actions and contributions as well as to commemorate important steps taken throughout the journey of a community member. They would also be great for recognizing participation in a community event or contest. Many achievements would likely also coincide with earning XP. 
 
@@ -241,7 +241,7 @@ One interesting possibility is that we could allow aspiring pilots that don't ha
 
  We've thus far established that A DAO structure based on working groups brings us much closer to a functional operating framework as an organization. A universal achievement system provides a toolkit of fun, non-financial rewards that can be used to gamify any part of the ecosystem and motivate collective autonomous action taking. But if we are to take this idea of a truly self sufficient, decentralized autonomous world seriously, we need to think about how it will actually operate as a holistic system. 
 
-![The World Engine](img/worldloop.png)
+![The World Engine](img/worldloop_i.png)
 
 One way to envision a self perpetuating, self organizing autonomous world is as a loop of loops. In the above diagram, we can identify three separate loops that all feed into each other to form one master "game loop" of the overall system. 
 
@@ -254,7 +254,7 @@ One way to envision a self perpetuating, self organizing autonomous world is as 
 Let's discuss each piece in more detail.
 
 ## The Economic Loop
-![The Flywheel](img/flywheel.png)
+![The Flywheel](img/flywheel_i.png)
 
 The economic engine is powered by three different kinds of "activity motors": 
 
@@ -280,7 +280,7 @@ The above graphic describes a "contributor's journey" that starts with a brand n
 
 The goal is to allow users to self identify their strengths and talents and then align them as quickly and efficiently as possible with educational materiels and contribution opportunities related to those talents. Those contributions are then rewarded, which in turn incentives the seeking of new opportunities to contribute. 
 
-![The Contributor Funnel](img/contributor_funnel.png)
+![The Contributor Funnel](img/contributor_funnel_i.png)
 
 The entry point for a new user should be like the top of a funnel, where we want to highlight the various opportunities to participate and contribute and then point newcomers in that direction. Ideally, there are clear  call-to-actions for the different contribution opportunities right from the first point of entry. The goal is to move them from becoming aware of the project, to engaging with the community on some level, to making their first meaningful act of contribution to the community. 
 
@@ -294,7 +294,7 @@ One important aspect of improving the on-boarding process is to not only *offer*
 
 At a minimum, we will want accessible guides and documentation on everything related to the game and DAO. We could then take it a step further by extending our gamified systems to the learning process. 
 
-![The Learning Loop](img/learning_loop.png)
+![The Learning Loop](img/learning_loop_i.png)
 
 We could create a series of courses that players would  progress through and "pass". Passing a course could be incentivized by a number of types of rewards:
 
