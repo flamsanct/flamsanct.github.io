@@ -12,7 +12,9 @@ The Citadel also takes inspiration from the decentralization that is commonplace
 
 The Citadel is the passion project of an experienced group of developers, artists, and space fans who want to push the limits of what's possible with on-chain games. As dedicated EVE players, it has been our dream to make a space game with a proper economy for a long time. When NFTs emerged as a means of letting players trade their assets freely, we knew it was time to see the vision through. 
 
-This game is our baby, and our sole focus is building it out the best we possibly can. We chose to self fund the initial development and audit of a fully functional game that will be playable directly after a ship NFT is minted because we want to demonstrate that we're here for the long run by our actions rather than just our words.  We understand that perfection from top to bottom is impossible, but we’ve taken special care to solve the problems that have plagued other projects in the space:
+This game is our baby, and our sole focus is building it out the best we possibly can. We chose to self fund the initial development of a fully functional game because we want to demonstrate that we're here for the long run.  We understand that perfection from top to bottom is impossible, but we’ve taken special care to solve the problems that have plagued other projects in the space:
+
+- **Playable on mint**: The game can be played immediately after minting a ship. Ships reveal the instant you bridge to Polygon -- no waiting.   
 
 - **Code audit**: We have partnered with Solidity Finance to professionally audit all contracts to the same standard and rigor as any serious DeFi product. The audit will be 100% complete and passed prior to mint. All future updates will be subject to additional auditing as part of our on-going partnership. 
 
@@ -91,7 +93,7 @@ Exodus ships are anomalous. Their traits far surpass those of standard and noble
 
 ### Officers
 
-![Scan results](img/designation_officer.gif)
+![Scan results](img/designation_officer_alt.gif)
 
 The Citadel has received ship sighting reports describing phenomena all but beyond their technicians' comprehension. Seemingly, these ships and their pilots have capabilities in a class of their own. The ships are described as vastly superior to even the best exodus ships, but sightings are rare and it is assumed there are very few examples of these peculiar craft in operation. Rumors circulate that these are the personal craft of clandestine elites in positions of power, and have thus been designated as officer ships. 
 
@@ -158,7 +160,7 @@ As mining operations ventured further out into distant asteroid belts, the Citad
 
  One mining outpost was captured in a series of coordinated strikes by marauders in the Outer Ring and retrofitted as an outlaw stronghold. The marauder chieftain in command dubbed the station the "Brig" in honor of The Citadel's holding cells he once managed to escape. After a period of conflict, a ceasefire was reached with the tentative agreement that the Brig would be a neutral safe harbor where mining crews are allowed to bring their ore for processing so long as they abided by the marauder way of doing things. 
 
-Undeterred, The Citadel continues work on new outposts with more powerful defense systems for deployment in the near future.  
+Undeterred, The Citadel continues work on new outposts with more powerful defensive capabilities for deployment in the near future.  
 
 # Upgrades
 
