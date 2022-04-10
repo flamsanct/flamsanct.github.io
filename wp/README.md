@@ -6,7 +6,7 @@ The Citadel is a 2D multiplayer space exploration strategy game set in a persist
 
 Like many of the games that have come before it, The Citadel uses NFTs to represent game items that interact to generate, claim, steal, burn, and exchange tokens. Unlike many of the games that have come before it, The Citadel expands on current state-of-the art P2E concepts to add staking pools with different risk/reward propositions, limited-resource staking pools, and a fully on-chain real time player positioning system. 
 
-The Citadel also takes inspiration from the decentralization that is commonplace in DeFi projects, adopting a community-first governance model with a true on-chain DAO and reduced owner privileges. Upon the launch of the game, the DAO will be trustlessly handed ownership of the game contracts and the treasury will be funded with a full 70% of the proceeds of the mint. At this point, the team joins the community as fellow players that will continue to build the future of The Citadel alongside the community. 
+The Citadel also takes inspiration from the decentralization that is commonplace in DeFi projects, adopting a community-first governance model with a true on-chain DAO and reduced owner privileges. Upon the launch of the game, the DAO will be trustlessly handed ownership of the game contracts and the treasury will be funded with a full 70% of the proceeds of the mint. At this point, the team joins the community as fellow players and builders that will continue to co-create the future of The Citadel alongside the community. 
 
 # Message from the Developers
 
@@ -35,7 +35,7 @@ Welcome to The Citadel. Your ships mint into this station and remain safe as lon
 
 ## Miners
 
-As a miner, you will make your living by warping to asteroid belts and mining them for ore. As new asteroid belts with different ore densities are discovered and existing asteroids' resources are expended, you'll face the choice of whether to punch in new navigation coordinates and travel on or to return to The Citadel and upgrade your ship. Your decisions must be made carefully and are shaped by your ship's speed, fuel efficiency, mining system, as well as your own understanding of risk.
+As a miner, you will make your living by warping to asteroid belts and mining them for ore. As new asteroid belts with different ore densities are discovered and existing asteroids' resources are expended, you'll face the choice of whether to punch in new navigation coordinates and travel on or to return to The Citadel to haul your ore back for processing and upgrade your ship. Your decisions must be made carefully and are shaped by your ship's speed, fuel efficiency, mining system, as well as your own understanding of risk.
 
 ## Marauders
 
@@ -45,7 +45,7 @@ Regardless of your career path, you will face choices as you select where to tra
 
 # Spaceships
 
-There are three classes of ship available at The Citadel. Each is available to both miner and marauder pilots, and issuance is decided randomly by The Citadel’s technicians. These classes give a ship its purpose and influence its starting traits.
+Ships belong to one of three distinct classes. Each is available to both miner and marauder pilots, and issuance is decided randomly by The Citadel’s technicians. These classes give a ship its purpose and influence its starting traits.
 
 ## Classes
 
@@ -59,14 +59,13 @@ These are small, light ships. Generally fuel efficient and fast, they are great 
 
 ![frigates and interceptors](img/class_medium.png)
 
-These are mid-sized ships, designed to be a compromise between frigates and command ships. Their speed, fuel efficiency, and power all sit between those of the other classes. While they may not have any particularly flashy stats, their balance and upgradeability makes them a good fit for most any mission.
-
+These are the mid-sized workhorses of any fleet. Their speed, fuel efficiency, and power all sit between those of the other classes. While they may not have any particularly flashy stats, their balance and upgradeability makes them a good fit for most any mission.
 
 ### Command & Battleships
 
 ![frigates and interceptors](img/class_large.png)
 
-These are large, heavy, and powerful. Built to maximize ore yield at any cost, they are the behemoths of space. However, what they deliver in power, they lack in agility. Even with upgraded propulsion systems, they have little hope of approaching the speed or fuel efficiency of the other classes.
+These are large, heavy, and powerful. Built to maximize ore yield or attack power at any cost, they are the behemoths of space. However, what they deliver in power, they lack in agility. Even with upgraded propulsion systems, they have little hope of approaching the speed or fuel efficiency of the other classes.
 
 
 ## Designations
@@ -95,7 +94,7 @@ Exodus ships are anomalous. Their traits far surpass those of standard and noble
 
 ![Scan results](img/designation_officer_alt.gif)
 
-The Citadel has received ship sighting reports describing phenomena all but beyond their technicians' comprehension. Seemingly, these ships and their pilots have capabilities in a class of their own. The ships are described as vastly superior to even the best exodus ships, but sightings are rare and it is assumed there are very few examples of these peculiar craft in operation. Rumors circulate that these are the personal craft of clandestine elites in positions of power, and have thus been designated as officer ships. 
+The Citadel has received reports of ship sightings that describe phenomena all but beyond their technicians' comprehension. The ships are described as vastly superior to even the best exodus ships, but sightings are rare and it is assumed there are very few examples of these peculiar craft in operation. Rumors circulate that these are the personal craft of clandestine elites in positions of power, and have thus been designated as officer ships. 
 
 ### Ship Manufacturers
 
@@ -132,17 +131,25 @@ As a miner, when you lift your ship's drills, you will find a single type of ore
 
 # Risk
 
-When completing their mining operations, miners must either call a transport ship or return to The Citadel themselves to bank their ore.
+> One of the characteristics of truly owning something is that you can potentially lose it.
+
+-- <a href="https://hackernoon.com/how-to-build-a-robust-game-economy-lessons-from-one-of-the-worlds-longest-running-mmos-426f8fd94f6d">Adora Goh</a>
 
 ## As a Miner
 
+When completing their mining operations, miners must either call a transport ship or return to The Citadel themselves to bank their ore.
+
+### The Safe Option: Pay the Corruption Tax
+
 In the regions where they are available, transport ships are able to deposit ore immediately on behalf of miners. However, their captains are corrupt and will immediately deduct a portion of the ore earnings and split it among the marauders at that belt, if there are any. Corruption varies from belt to belt, but is generally higher in more distant regions. If there are no marauders at a belt when a miner claims, all funds are deposited immediately, without any deduction.
+
+### The Risky Option: Take a Perlious Journey
 
 When transport ships are not available, or to avoid feeding into the corrupt system, a miner may choose to return to The Citadel themselves in order to deposit their ore. For the most part, miners are successful when choosing this option, but they do have to account for the travel time and fuel involved. Still, if there are marauders at their asteroid belt, there is small chance that they are robbed for a portion of their funds, and a sliver of a chance that their ship is gunned down and destroyed permanently. As with transport ships, the exact odds of each outcome vary by region, and there is no risk at all if the asteroid belt in question is clear of marauders.
 
 ## As a Marauder
 
-Each time that ore is allocated to marauders, either through corruption or crime, it is distributed only to marauders at the belt in question. An individual marauder's share of the take is proportional to their ship's attack power. As miners move to avoid resource depletion and leverage new opportunities, marauders will face the decision of whom to follow. Because there is only so much ore to distribute, marauders will also have to consider their ship’s attack power in comparison to the total attack power before traveling. 
+Each time that ore is allocated to marauders, either through corruption or crime, it is distributed only to marauders at the belt in question. An individual marauder's share of the take is proportional to their ship's attack power. As miners move to avoid resource depletion and leverage new opportunities, marauders will face the decision of whom to follow. Because there is only so much ore to distribute, marauders will also have to consider their ship’s attack power in comparison to the total attack power before traveling.
 
 # Travel & Fuel
 
@@ -152,13 +159,13 @@ Space is vast, and opportunities are all about location. Being in the right plac
 
 # Outposts
 
-![mining outposts](img/outposts.gif)
-
-As mining operations ventured further out into distant asteroid belts, the Citadel began to deploy mining outposts to support them since returning to the Citadel for refining and resupplying became too costly and time consuming. Outposts provide outer belt miners with shorter return paths for when they decide to forgo a transport ship and take their chances hauling their own ore back for refinement. 
+As mining operations ventured further out into distant asteroid belts, the Citadel began to deploy mining outposts to support them since returning to the Citadel for refining and resupplying became too costly and time consuming. Outposts provide outer belt miners with shorter return paths for when they decide to forgo a transport ship and take their chances hauling their own ore back for processing. 
 
 ## The Brig
 
- One mining outpost was captured in a series of coordinated strikes by marauders in the Outer Ring and retrofitted as an outlaw stronghold. The marauder chieftain in command dubbed the station the "Brig" in honor of The Citadel's holding cells he once managed to escape. After a period of conflict, a ceasefire was reached with the tentative agreement that the Brig would be a neutral safe harbor where mining crews are allowed to bring their ore for processing so long as they abided by the marauder way of doing things. 
+![mining outposts](img/outposts.gif)
+
+In a series of coordinated strikes by marauders, all but one outpost was destroyed. The surviving station was captured intact and retrofitted as an outlaw stronghold. The marauder chieftain in command dubbed the station "The Brig" in honor of The Citadel's holding cells he once managed to escape. After a period of conflict, a ceasefire was reached under the tentative agreement that The Brig would be a neutral safe harbor where mining crews are allowed to bring their ore for processing so long as they abide by the marauder way of doing things. For Outer Ring and Abyss miners who haul their own ore, docking at the Brig is too convenient and profitable to avoid. 
 
 Undeterred, The Citadel continues work on new outposts with more powerful defensive capabilities for deployment in the near future.  
 
@@ -174,7 +181,9 @@ To make quotes simpler, The Citadel's technicians have created a set of tiers to
 
 ![ships under construction](img/anim_upgrades.gif)
 
-Each ship is built with different traits that define a unique set of tradeoffs. To bolster their strategies and develop new tactics, many pilots will want multiple ships under their command. The Citadel's government understands this, and has instructed their technicians to offer a reserve of additional ships of both new and refurbished makes and models. In an effort to keep the economy stable, The Citadel's government has elected not to set prices. Instead, an auction will be held each week where a small batch of the completed ships will be sold to the highest ore bidders. This allows the value of a ship to be set naturally by the community of pilots. Of the ore the government receives, 67% will be burnt due to bureaucracy and 33% will be sent to The Citadel's parliament treasury, where all pilots will vote on how it is used or whether it is burnt.
+Each ship is built with different traits that define a unique set of tradeoffs. To bolster their strategies and develop new tactics, many pilots will want multiple ships under their command. The Citadel's government understands this, and has instructed their technicians to offer a reserve of additional ships of both new and refurbished models from all manufacturers. 
+
+In an effort to keep the economy stable, The Citadel's government has elected not to set prices. Instead, an auction will be held each week where a small batch of the completed ships will be sold to the highest ore bidders. This allows the value of a ship to be set naturally by the community of pilots. Of the ore the government receives, 67% will be burnt due to bureaucracy and 33% will be sent to The Citadel's parliament treasury, where all pilots will vote on how it is used or whether it is burnt.
 
 # Governance
 
