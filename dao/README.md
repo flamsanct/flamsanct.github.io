@@ -9,7 +9,6 @@ The Citadel DAO empowers a community of passionate players to have fun building 
 - **Decentralization**: we stand for a decentralized, community governed metaverse.
 - **Sustainability**: our decisions are guided by a long-term view of the game, community, and economy.   
 - **Experimentation**: we reserve the freedom to try what's never been done before, take low-stakes risks, and iterate rapidly. 
-we manage uncertainty and complexity by experimenting 
 - **Positive sum**: we prefer win-win outcomes and relationships.
 - **Integrity**: we keep our word, we tell the truth, we do the right thing. 
 - **People first**: we prioritize the wellbeing of the community above all competing interests.  
@@ -83,7 +82,7 @@ Once submitted, proposals become active and enter a 6-7 day voting period. In or
 	- **When**: time scales and due dates (if applicable)
 	- **How**: completion criteria (if work is being done)
 - **Total projected cost**: total estimated cost of the content of the proposal. 
-- **Funds requested now**: funds that will be automatically disbursed if proposal passes. 
+- **Funds requested now**: funds that will be automatically disbursed if proposal passes. (if any)
 
 ### Examples of Hypothetical Proposals
 - Design art for game assets
