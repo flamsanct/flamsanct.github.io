@@ -16,9 +16,9 @@ This game is our baby, and our sole focus is building it out the best we possibl
 
 - **Playable on mint**: The game can be played immediately after minting a ship. Ships reveal the instant you bridge to Polygon -- no waiting.   
 
-- **Code audit**: We have partnered with Solidity Finance to professionally audit all contracts to the same standard and rigor as any serious DeFi product. The audit will be 100% complete and passed prior to mint. All future updates will be subject to additional auditing as part of our on-going partnership. 
+- **Code audit**: We have partnered with [Solidity Finance](https://solidity.finance/audits/Citadel/) to professionally audit all contracts to the same standard and rigor as any serious DeFi product. The audit will be 100% complete and passed prior to mint. All future updates will be subject to additional auditing as part of our on-going partnership. 
 
-- **Economic design audit:** We have also partnered with Machinations who utilize their cutting-edge Monte Carlo simulation technology and professional economic expertise to model and audit our economic design. After several months of testing and revising the model, we are now the first on-chain game to receive their game economy health verification seal. 
+- **Economic design audit:** We have also partnered with [Machinations](https://articles.citadel.game/machinations) who utilize their cutting-edge Monte Carlo simulation technology and professional economic expertise to model and audit our economic design. After several months of testing and revising the model, we are now the first on-chain game to receive their game economy health verification seal. 
 
 - **Community owned:** To ensure the community's best interests are protected, we’ve designed all of our contracts so that we can relinquish upgrade permission and AccessControl admin roles to the DAO, while still retaining non-admin permissions. This allows us to add surprises to the game, but also gives the DAO the power to remove those rights, as well as our portion of royalties, if the community chooses.
 
@@ -41,6 +41,8 @@ As a miner, you will make your living by warping to asteroid belts and mining th
 
 As a marauder, you will make ends meet by robbing miners and utilizing systemic corruption. After traveling to an asteroid belt and stationing your ship, you will be inducted into the local crime ring. By colluding with local transport ship staff, you will siphon off some of the miners' hard-earned ore for yourself. Additionally, you will assist in the ring's attempts to gun down returning miners who refuse to pay their protection tribute, granting you a much more significant portion of their ore.
 
+## Choices
+
 Regardless of your career path, you will face choices as you select where to travel, when to perform upgrades, and how to increase your wealth relative to your fellow pilots. To succeed you will need take into account the strengths and weaknesses of the ship you're piloting, your tolerance for risk, and your limitations as a player.
 
 # Spaceships
@@ -51,19 +53,19 @@ Ships belong to one of three distinct classes. Each is available to both miner a
 
 ### Frigates & Interceptors
 
-![frigates and interceptors](img/class_small.png)
+![Frigates and Interceptors](img/class_small.png)
 
 These are small, light ships. Generally fuel efficient and fast, they are great for reaching distant belts before other pilots. They are less powerful than the other classes of ships, though, regardless of their career.
 
 ### Barges & Cruisers
 
-![frigates and interceptors](img/class_medium.png)
+![Barges and Cruisers](img/class_medium.png)
 
 These are the mid-sized workhorses of any fleet. Their speed, fuel efficiency, and power all sit between those of the other classes. While they may not have any particularly flashy stats, their balance and upgradeability makes them a good fit for most any mission.
 
 ### Command & Battleships
 
-![frigates and interceptors](img/class_large.png)
+![Command and Battleships](img/class_large.png)
 
 These are large, heavy, and powerful. Built to maximize ore yield or attack power at any cost, they are the behemoths of space. However, what they deliver in power, they lack in agility. Even with upgraded propulsion systems, they have little hope of approaching the speed or fuel efficiency of the other classes.
 
@@ -74,25 +76,25 @@ Within each class, a ship may fall into one of four build designations: standard
 
 ### Standard
 
-![noble ships](img/designation_standard.png)
+![Standard Ships](img/designation_standard.png)
 
 Ships designated as standard have the lowest tier traits and are most common, making up around 60% of the total supply. They serve as daily drivers for most pilots, and provide the most granularity in terms of upgrades.
 
 ### Noble
 
-![noble ships](img/designation_noble.png)
+![Noble Ships](img/designation_noble.png)
 
 Noble ships with higher tier traits than their standard counterparts, but are less common. Comprising only 30% of the total supply, they are inaccessible to many pilots. For those that are lucky enough to receive them at issue, or to acquire them through trade, they can provide significant benefits.
 
 ### Exodus
 
-![noble ships](img/designation_exodus.png)
+![Exodus Ships](img/designation_exodus.png)
 
 Exodus ships are anomalous. Their traits far surpass those of standard and noble ships, and often exceed what is legally allowed within The Citadel. These ships are projects the technicians are most proud of, and were made in secret. Exodus ships are top tier, and they certainly look the part.
 
 ### Officers
 
-![Scan results](img/designation_officer_alt.gif)
+![Scan Results](img/designation_officer_alt.gif)
 
 The Citadel has received reports of ship sightings that describe phenomena all but beyond their technicians' comprehension. The ships are described as vastly superior to even the best exodus ships, but sightings are rare and it is assumed there are very few examples of these peculiar craft in operation. Rumors circulate that these are the personal craft of clandestine elites in positions of power, and have thus been designated as officer ships. 
 
@@ -145,7 +147,7 @@ In the regions where they are available, transport ships are able to deposit ore
 
 ### The Risky Option: Take a Perilous Journey
 
-When transport ships are not available, or to avoid feeding into the corrupt system, a miner may choose to return to The Citadel themselves in order to deposit their ore. For the most part, miners are successful when choosing this option, but they do have to account for the travel time and fuel involved. Still, if there are marauders at their asteroid belt, there is small chance that they are robbed for a portion of their funds, and a sliver of a chance that their ship is gunned down and destroyed permanently. As with transport ships, the exact odds of each outcome vary by region, and there is no risk at all if the asteroid belt in question is clear of marauders.
+When transport ships are not available, or to avoid feeding into the corrupt system, a miner may choose to return to The Citadel themselves in order to deposit their ore. For the most part, miners are successful when choosing this option, but they do have to account for the travel time and fuel involved. Still, if there are marauders at their asteroid belt, there is a small chance that they are robbed for a portion of their funds, and a sliver of a chance that their ship is gunned down and destroyed permanently. As with transport ships, the exact odds of each outcome vary by region, and there is no risk at all if the asteroid belt in question is clear of marauders.
 
 ## As a Marauder
 
