@@ -41,7 +41,7 @@ Once submitted, proposals become active and enter a 6-7 day voting period. In or
 ### [How to submit a proposal on Tally](https://docs.tally.xyz/user-guides/create-a-proposal)
 
 ### Proposal Requirements  
-- Must have at least 5 ships worth of voting power. This can be a combination of ships staked directly and votes delegated by other pilots. This is code-bound rule.
+- Must have at least 5 ships worth of voting power. This can be a combination of ships staked directly and votes delegated by other pilots. This is a code-bound rule.
 - Must conform to the proposal template guidelines.
 - Must be realistic, narrowly scoped, detailed, and reasonably budgeted based on fair market rates.
 - All contract upgrades must pass a Solidity Finance code audit. 
@@ -127,14 +127,14 @@ While we are still finding our footing, all proposals must first be vetted off-c
 - **Link to Pitch or Draft**: if a Draft Proposal, include link to successful proposal pitch on Discourse. If an on-chain proposal, link to successful Draft Proposal. 
 - **Category**: Funding, Resolution, Contract Upgrade
 - **Summary**: 2-3 sentences.
-- **Rationale**: main supporting arguments.
 - **Description**: 
 	- **What**: detailed description, include any relevant supporting data
+	- **Why**: main supporting arguments
 	- **Who**: is involved, what are their credentials and standing in the community
 	- **When**: time scales and due dates (if applicable)
 	- **How**: implementation pathways, what needs to happen to fully implement proposal and what permissions are involved
 - **For and Against Arguments**: highlight why we would want to pass the proposal and why we might not
-- **Criteria**: what metrics, KPIs, or deliverables represent successful completion of work or goals?
+- **Criteria**: what conditions, metrics, KPIs, or deliverables represent successful completion of work or goals?
 - **Milestones**: if project has a large scope, it's best to break it into separate milestone proposals. They should all be outlined here, as well as any work that has been done if this is a subsequent milestone proposal. 
 - **Cost breakdown**: detailed breakdown of how funds will be used.
 - **Total projected cost**: total estimated cost of the scope of the proposal. 
