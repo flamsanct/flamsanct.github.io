@@ -30,9 +30,9 @@ Meanwhile, this power can be revoked via a special pre-written proposal that can
 All community governance documents are subject to modification via a community resolution proposal. Changes to the documents will be implemented off-chain by the appropriate DAO or Core Team representative. 
 
 Documents include: 
-- Charter 
-- Proposal Process
-- Specification of Powers
+- [Charter](#) 
+- [Proposal Process]
+- [Specification of Powers
 - Community Roadmap
 
 ## Off-chain Community Accounts and Services
@@ -41,11 +41,11 @@ Due to the centralized nature of some of our core collaboration and communicatio
 The Core Team is happy to discuss creative ideas on how these accounts could one day be handed off to community control. 
 
 Accounts include:
-- Discord
-- Twitter
+- [Discord]([discord.gg/thecitadel](https://t.co/Ylupe0ZCCf))
+- [Twitter](https://twitter.com/TheCitadelGame)
 - Discourse
-- Machinations
-- citadel.game website
+- [Machinations](machinations.io)
+- [citadel.game](citadel.game)
 
 
 
