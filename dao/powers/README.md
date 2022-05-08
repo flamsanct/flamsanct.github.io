@@ -31,9 +31,9 @@ All community governance documents are subject to modification via a community r
 
 Documents include: 
 - [Charter](#) 
-- [Proposal Process]
-- [Specification of Powers
-- Community Roadmap
+- [Proposal Process](#)
+- [Specification of Powers](#)
+- [Community Roadmap](#)
 
 ## Off-chain Community Accounts and Services
 Due to the centralized nature of some of our core collaboration and communication tools, it's not possible to transfer ownership to the governance contracts. For now, the Core Team will continue to hold administrator control over these accounts and steward them on behalf of the community. 
