@@ -28,12 +28,12 @@ Governance is based on proposals that are submitted and voted on by holders of s
 
 ## More Resources
 
-### [DAO Charter: Purpose, Principles, and Manifesto (Draft)](/dao/)
+[DAO Charter: Purpose, Principles, and Manifesto (Draft)](/dao/)
 A first draft of a charter that will define the high level direction and purpose of the DAO. To be ratified via resolution proposal after launch. 
 
-### [Organizing The Citadel](/dao/org/)
+[Organizing The Citadel](/dao/org/)
 Envisioning what the DAO could be, and introducing concepts in decentralized governance. 
 
-### [Specification of Powers](/dao/powers/)
+[Specification of Powers](/dao/powers/)
 Outlines the powers granted to the Core Team and the community in detail. 
 
