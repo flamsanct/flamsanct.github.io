@@ -154,6 +154,7 @@ In this approach, hierarchies intersect one another and are domain and context-s
 ### Building Trust vs. Taking Action
 
 > "Go slow now to go fast later" 
+
 -- Unknown
 
 While there may be a temptation to try to onboard as many contributors as we can and grow as fast as possible, there's a case to be made for deliberately starting small and growing slowly in terms of core contributors. 
@@ -185,6 +186,7 @@ Convergent attractors can be used to counterbalance the emergent tendency toward
 Two conflicting polarities the Core Team has had to reconcile in designing the decentralized aspects of The Citadel are the need for top-down planning vs. letting things emerge from the community organically. We will all be facing this challenge as we collectively stand up the early phases of the DAO together, and it's a trade-off we will make time and again. 
 
 > "Navigating these two polarities results in what we call planning for emergence—sensing into the past, present, and future to identify and pursue high-potential opportunities while maintaining a spirit of experimentation in order to adapt quickly to new information."
+
 -- *Impact Networks* by David Ehrlichman 
 
 While it can be uncomfortable and scary at times, building a community-governed organization involves an element of surrendering to the unknown. Planning is essential and tremendously valuable, but overly rigid prescriptions can constrain the ability to adapt and integrate the collective voice. Too much planning too far in advance can stifle creativity, sap energy, and waste potential. 
