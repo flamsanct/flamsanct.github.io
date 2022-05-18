@@ -117,17 +117,17 @@ Among the best tools at our disposal is experimentation. When faced with uncerta
 
 ## Trade-offs in Decentralized Design
 
-In attempting to shift from a negative-sum to a positive-sum mindset, it is helpful to become aware of the existence of conflicting polarities. There is a temptation to favor one dualistic extreme over its opposite, but if we view them as two complementary forces to be held in balance we don't have to chose sides. 
+In attempting to shift from a negative-sum to a positive-sum mindset, it is helpful to become aware of the existence of conflicting polarities. There is a temptation to favor one dualistic extreme over its opposite, but if we instead view them as two complementary forces to be held in balance we don't have to chose sides. 
 
 ### Centralization vs. Decentralization 
 
-Decentralization in particular has become something of a false idol in web3 culture, where it is seen as manifestly righteous in all scenarios. Centralization becomes the nemesis, a force to be rallied against and eventually defeated for good if we are to make real progress.
+Decentralization in particular is often raised up as manifestly righteous in all scenarios in web3 culture. Centralization becomes the nemesis, a force to be rallied against and eventually defeated for good if we are to make real progress.
 
 When referring to a decentralized game, project, or organization, what's important is the specific parts that benefit from decentralization. To insist that absolutely everything is decentralized and that centralization in any form is taboo is a seductive but ultimately limiting approach.
 
 In a holistic model of systems, decentralization and centralization are both equally vital forces we can harness for maximizing positive-sum outcomes. The trick is in knowing how best to utilize each polarity at different scales and in different contexts. 
 
-Whereas the models that came from web2 and before tended to overly apply centralized mechanisms, web3 may tend to overly apply decentralized ones. Over the last few years of rapid experimentation in the nascent DAO space, some have found that the fully decentralized decision-making model is not viable or even desirable at scale.  
+Whereas the models that came from web2 and before tended to overly apply centralized mechanisms, web3 may tend to overly prescribe decentralized ones. Over the last few years of rapid experimentation in the nascent DAO space, some have found that the fully decentralized decision-making model is not viable or even desirable at scale.  
 
 In reality, any particular DAO operates on a [spectrum of decentralization](https://mirror.xyz/beeradley.eth/7nm4-soijTclpV2r-B1zxHEjUnMAJehRfM-BxdnS2A4). 
 
