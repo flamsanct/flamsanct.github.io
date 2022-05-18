@@ -11,6 +11,7 @@ We are a decentralized game studio that builds worlds in the community owned met
 - **Positive sum**: we prefer win-win outcomes and relationships.
 - **Integrity**: we keep our word, we tell the truth, we do the right thing. 
 - **Transparency**: information about all aspects of the project is clear and accessible. 
+- **Fun**: if we're not having fun, we're off course. 
 
 ## Manifesto
 
