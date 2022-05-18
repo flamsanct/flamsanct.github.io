@@ -8,6 +8,12 @@ Once submitted, proposals become active and enter a 6-7 day voting period. In or
 
 ## [How to submit a proposal on Tally](https://docs.tally.xyz/user-guides/create-a-proposal)
 
+## Executing Proposals
+
+When a proposal reaches quorum (a minimum number of votes) and has the majority of votes in favor, it can be queued for execution. Queueing a proposal simply marks it ready for execution after a certain amount of time, and allows people who were not in favor time to react. After about a week, anybody can execute the proposal. Executing proposals runs the code for them, as defined when the proposal was made. The UI for doing so can be found below, courtesy of [Tally](https://www.tally.xyz/).
+
+![Execute Proposal on Tally](img/execute_proposal.png)
+
 ## Proposal Requirements  
 - Must have at least 5 ships worth of voting power to submit a proposal. This can be a combination of ships staked directly and votes delegated by other pilots. 
 - Must conform to the proposal template guidelines.
@@ -128,7 +134,7 @@ The Core Team will submit several examples we have planned on the Discourse foru
 ## Examples of Proposals in Other Projects
 - [Yearn - YIP-61: Governance 2.0](https://gov.yearn.finance/t/yip-61-governance-2-0/10460)
 - [VitaDAO - VDP-1 VitaDAO Governance Framework](https://gov.vitadao.com/t/vdp-1-vitadao-governance-framework/40)
-- [Index Coop - Index 2.0 | Leadership, Governance and Decision Making (Pods, Nest and Wise Owls)](https://gov.indexcoop.com/t/index-2-0-leadership-governance-and-decision-making-pods-nest-and-wise-owls/3214)
-- [Index Coop - Community Ownership & Compensation | V2 Proposal](https://gov.indexcoop.com/t/community-ownership-compensation-v2-proposal/3361)
+- [Index Coop - Index 2.0 Leadership, Governance and Decision Making (Pods, Nest and Wise Owls)](https://gov.indexcoop.com/t/index-2-0-leadership-governance-and-decision-making-pods-nest-and-wise-owls/3214)
+- [Index Coop - Community Ownership & Compensation V2 Proposal](https://gov.indexcoop.com/t/community-ownership-compensation-v2-proposal/3361)
 - [Decentraland - DAO Governance Proposal Stages](https://governance.decentraland.org/proposal/?id=5193f850-5c00-11ec-9c52-0d9746a59174)
 - [BanklessDAO - Founding a Project Management guild 2.0](https://forum.bankless.community/t/founding-a-project-management-guild-2-0/3251)

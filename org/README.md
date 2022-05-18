@@ -1,13 +1,25 @@
 # Organizing the Citadel
 ![Organizing a decentralized virtual world](img/header_i.png)
 
+## DAO 1.0
+
 The launch of the Citadel will represent a fairly radical experiment in decentralizing a blockchain gaming project. This is accomplished via the Citadel DAO, to which the majority of both funding and ownership are handed trustlessly via smart contracts on launch day. Once this happens, the founding team will become community members alongside everyone else with the exception of a set of well defined and programmatically revokable privileges appropriate for overseeing the early phases of the game and project. There are many opportunities and challenges that await us on this journey, and it will be up to all of us in the community to decide how we are to meet them. 
 
+At the center of this community venture is the DAO and the infrastructure necessary to sustain it. The team has spent the better part of the past several months specifically working on laying the groundwork for a robust DAO and governance system in order to feel confident in handing over control to it from the outset. Transferring ownership of all game contracts to the DAO and funding its treasury with the majority of the proceeds from the mint is the crucial step that separates a real DAO from a DAO-in-name-only. 
 
+This represents the technical implementation of The Citadel's DAO First launch strategy, which accomplishes three important things:
 
-At the center of this community venture is the DAO and the infrastructure necessary to sustain it. The team has spent the better part of the past several months specifically working on laying the groundwork for a robust DAO and governance system in order to feel confident in handing over control to it from the outset. Transferring ownership of all game contracts to the DAO and funding its treasury with the majority of the proceeds from the mint is the crucial step that separates a real DAO from a DAO-in-name-only.  A true DAO is the project's primary beneficiary; it runs the project, owns the project, and ultimately *is* the project.
+1. Empowers the community to have a meaningful voice in the project they invest in from day one, and even take it over if desired. 
+2. Protects the majority of the community's investment by securing 70% of mint funds in a community treasury that they have total control over. 
+3. Provides a robust economic flywheel and backing to assets in the ecosystem. 
 
-With that said, the launch version of the DAO will provide the essential foundation on top of which it will be up to the community to evolve into an effective, efficient, and self sufficient decentralized game development organization. The team will seek to assist in this effort in every possible way, but ultimately it will take all of us to reach the full potential of decentralized co-creation and self governance. In this paper we will explore a vision of what that could look like. 
+This is a sturdy technical foundation, but what ultimately makes a DAO a *DAO* is the people who show up to use these tools and how they wield them. 
+
+A fully realized DAO is a verb: a thing members of a community *do* together. It is as much a culture as it is a codebase.  The tools can't build a fully functional community-led decentralized organization on their own -- that's up to each and every one of us: our vision, our initiative, our leadership, our ideas, our decisions, our passion and dedication. 
+
+With that said, we are launching with a number of centralized levers of control via the Core Team in an effort to strike a balance between defining an initial set of governing constraints, allowing enough freedom for organic evolution of the organization to emerge from the community, and having backup strategies in case of emergencies. The goal is [progressive decentralization](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/) over time, where we transition from the Core Team operations being augmented by the DAO to the DAO operations being augmented by the Core Team. This won't happen overnight, but it is the North star that guides our efforts.
+
+The team will seek to assist in this effort in every possible way, but ultimately it will take all of us to reach the full potential of decentralized co-creation and self governance. In this paper we will explore a vision of what that could look like. 
 
 ## The World of the Citadel
 
@@ -113,6 +125,34 @@ One approach other DAO based projects have implemented successfully is the use o
 
 This approach solves a big problem with self-governance in that a pure direct democracy decision making model doesn't scale very well. With working groups and constrained delegation, we can empower trustworthy and capable community members to act independently on the DAO's behalf. We can define specific roles across the DAO and in each working group that are granted specific privileges appropriate for carrying out the objectives of that role. We can then approve transparent funding for the execution of the role mandate, and hold those using the funds accountable. 
 
+### Holding Tensions
+
+#### Divergence and Convergence
+
+##### Divergence
+- Emergent working groups arise spontaneously and split away from the larger mass of the voting body, which represents a point of divergence.
+
+- Squads or sub-groups may emerge within that new group, and some may even split away into their own groups, another point of divergence. 
+
+- This diverging away from the main DAO can happen in all directions, which is :
+
+- **Useful** in that it promotes creativity, initiative, flexibility, and rapid evolution and responsiveness to emergent conditions or challeneges
+ 
+- **Harmful** in that it can fracture the energy and efforts of the DAO, add complexity and administrative overhead, promote siloing of knowledge and expertise, create barriers to communication, and make focus and execution of the mission of the DAO difficult 
+
+##### Convergence
+- To establish convergent attractors that counter balances the emergent tendency toward divergence, we should design grounding and centering mechanisms to loop emergent developments back into cohesion with the whole. 
+- This could look like:
+	- A "Council" group of elected leaders who provide administrative oversight, guidance, and fallback decision-making for other groups
+	- Promoting an ethos of proactive communication, asking leaders of groups to share the lessons they have learned and maintain an open feedback loop to the larger whole
+	- Social / cultural community building that strengthens relationships and communication across the organization
+	- Gamification incentives to stay mindful of the DAO's greater mission and values
+	- Economic incentives to adhere to organizational standards
+
+
+
+#### 
+
 We could decide to make roles pluralistic in that one individual could be assigned to more than one role if that was feasible given the responsibilities of the role. In this way, "jobs" in the DAO would be more about actively fulfilling the responsibilities of a well defined role than holding a single full-time position by default (not that some roles wouldn't entail full time workloads). 
 
 The creation of a privileged role and the assigning of community members to that role can still happen via governance proposals, so each community member still retains a voice in all of this. Meanwhile, the DAO is able to operate efficiently at scale on a day-to day-basis. 
@@ -164,13 +204,89 @@ This is probably one of the first examples of a working group most people would 
 
 The Embassy would concentrate on representing the Citadel to the public and growing the playerbase: PR, social account management, growth strategy, collabs, and the like. It could act as a real embassy for guilds and similar gaming communities, as well as handle external recruiting for working group positions if that's ever needed or appropriate. The Architect of the Embassy could act as both Chief Ambassador and PR Specialist. 
 
+#### The Legion 
+
+An increasingly important topic in decentralized governance is the idea of [metagovernance](https://hackernoon.com/what-is-metagovernance). Metagovernance refers to a situation in which one DAO holds the governance tokens of other DAOs and can thus participate in their governance process. This results in a kind of soft entanglement of the cross participating DAOs.
+
+For a blockchain gaming DAO like ours, an interesting idea is that metagovernance could mean buying NFTs of other P2E projects and having members of our DAO play other on-chain or P2E games. This in effect describes a type of internal yield guild.
+
+So the idea for The Legion would be a type of internal yield guild that:
+1. Participates in the governance of other DAOs, reflecting our values and priorities while also establishing friendly relations with like-minded projects. 
+2. Plays other blockchain games and earns a yield for our DAO. 
+3. Manages a portfolio of gaming NFTs and governance tokens. 
+
+The technical-logistical implementation of this could be tricky, but it's another unique opportunity presented by a DAO owned gaming project we can explore. 
 
 ### In Practice
-The working group model allows us to transition from a situation where every governance decision and use of treasury funds would require a new proposal and DAO-wide vote to a situation where the majority of small to medium sized decisions are made by trusted representatives in the Architect, Facilitator, and Associate roles. This would mean that we could vote on an entire project that would bundle together a dozen separate work items into one. Now there's only one proposal to vote and reach quorom on instead of twelve, and we empower dedicated roles to execute and oversee the work as they best see fit without needing to ask for additional permission. 
+The working group model allows us to transition from a situation where every governance decision and use of treasury funds would require a new proposal and DAO-wide vote to a situation where the majority of small to medium sized decisions are made by trusted representatives in the Architect, Facilitator, and Associate roles. This would mean that we could vote on an entire project that would bundle together a dozen separate work items into one. Now there's only one proposal to vote and reach quorum on instead of twelve, and we empower dedicated roles to execute and oversee the work as they best see fit without needing to ask for additional permission. 
 
 For example, we could vote to assign the project of "create a line of 18 new ship skins" to a Facilitator of the Studio and provide them with the use of e.g. 2 ETH worth of $ORE to compensate vetted artists within the Studio that hold Associate and Freelancer roles for each skin they contribute. 
 
-Establishing working groups could be a great step towards building a high-functioning decentralized organization. Another idea that we can explore to incentivize participation and community contribution is in expanding the idea of the game world to include the entire organization and community at large by making participation fun and rewarding across the entire ecosystem. 
+### The Chicken or Egg of Working Group Formation
+
+Do top-down, centrally planned working groups form a new DAO, or does a new DAO form bottom-up decentralized working groups? 
+
+![How a DAO Becomes a DAO](img/1kx_daojourney.png)
+<p style="text-align:center; font-style: italic"><a href="https://medium.com/1kxnetwork/how-communities-gain-operational-autonomy-over-time-e5518d262f86">How communities gain operational autonomy</a></p>
+
+
+There are different strategies for the incorporation of operating roles and groups in a new DAO. 
+
+Some projects attempt a top-down approach, where the founding team designs a fully developed structure with well defined areas of responsibility from the outset and then attempts to recruit community support in performing those roles. This provides more clarity about process and may achieve a functioning model more easily, but lacks flexibility and may struggle with community buy-in and operational coherence (theory colliding with practice). 
+
+The more common and essentially default design is to deliberately embrace tabula rasa and allow structure and groups to emerge organically over time. This is the most decentralized approach where you get community buy-in by default, but may result in a more chaotic and dysfunctional situation in the early phases, with increased risk of  disengagement or burnout. 
+
+The approach the Core Team has taken in standing up the Citadel DAO is to lean towards the open ended approach while providing strong guidance, oversight, and leadership by example. We are opinionated and have a vision for what the DAO could be that we outline in documents such as this, but prescribe only a minimal structure for how to go about realizing it and wish for our vision to merge with one shared by the collective. 
+
+We will encourage, support, and hopefully inspire community support in co-piloting the DAO toward this vision, and have in the interim reserved the right to exercise some level of centralized course-correction when we feel it's in everyone's best interest. Ultimately, we seek to work toward a level of decentralization where such interventions are not necessary (or replaced by a decentralized equivalent). 
+
+Because critical operational concerns will be managed under the Core Team initially, we feel there is enough of a safety-net to empower the DAO to be bold and play with low stakes, safe-to-fail experiments in discovering the best and most natural path forward. 
+
+### The Lifecycle of a Working Group
+
+#### Phase 1: **Primordial Soup** 
+Instead of dictating structure, the Core Team focuses on supporting positive emergent behaviors and disrupting negative ones. 
+- Identify individuals and groups taking the initiative to collaborate on contributions and offer them support and guidance.
+- Identify opportunities for contribution, surface them for the pool of potential contributors, and offer support and guidance to those who volunteer to help out.
+
+#### Phase 2: **Recognition, Formalization, Tools**
+Once a group has already been working together in some capacity, encourage and support them in submitting a proposal to formalize themselves as a working group with a clear mandate. Showing examples of what they have already been working on is a great way to gain support for the proposal. 
+
+The main ask from the proposal will be the community's support in carrying out their mandate in the form of privileges and collaboration tools: discord roles, discord channel, Discourse roles, Discourse board, setting up new low-cost or free tools, and any other community tooling or privileges necessary to support their mandate. 
+
+#### Phase 3: **Funding, Defined Roles, Autonomy**
+Requesting funding should ideally come after a group has a track record of success as a casual formal working group and lack of funding begins to present clear barriers to progress. 
+
+Sensible things to request funding for via proposals:
+1.  **Dedicated roles**: creation of a paid full or part time recurring role, such as a group leader or essential dedicated role that demands sufficient time and attention that the DAO would want to adequately fund its continuation and expansion.
+2.  **Quests / Bounties**: a way to post one-off or recurring tasks with well defined completion criteria and a predefined reward that anyone with sufficient standing in the group can voluntarily tackle.
+3.  **Third party services and tools**: the first example of this will likely be paying for Solidity Finance and Machinations audits for any contract upgrade work that community takes on, but there's many other potential examples.
+
+There are types of contributions people will want to make voluntarily that the DAO may be unable or unwilling to  fund, but these efforts can still be recognized via achievements, special roles, and greater trust and responsibility in the DAO (see: Universal Achievement System), which could ultimately lead to opportunities for paid compensation. 
+
+At some point it may become appropriate to begin using various payroll and fund management tools to coordinate fund allocation and compensation within the working group. Examples might include:
+    
+- [Gnosis Safe](https://gnosis-safe.io/) for a working group multi-sig operating fund
+- [Coordinape](https://coordinape.com/) for peer feedback based compensation / bonuses
+- [Paymagic](https://www.paymagic.xyz/) or [Parcel](https://parcel.money/) for bounty/quest and recurring payroll transfers
+
+#### Phase 4: **Sub-DAO**
+	
+Over time, working groups will likely gain more autonomy, operational coherence, and trust both interpersonally within the group and a positive reputation to the greater DAO. In effect, they could become more of a semi-autonomous sub-DAO over time.
+
+#### Phase 5: **Split, Merge, Contract, Spin Down**
+
+Of course, not all working groups need be permanent. If the mandate of the group is no longer relevant to the current operational needs and priorities of the DAO it can contract, merge with other groups, or spin down entirely. Proposals that request continuation of funding are a good opportunity to assess the current trajectory of the group and adjust accordingly.
+    
+##### Squads
+
+If the mandate of a single working group expands to a large enough threshold it may find it needs to split up into smaller, more manageable units. At some point it may make sense for projects that the group is working on to split off into project teams we might call "squads" that spin up and down as needed. For squads that discover a recurring role to play or perhaps a larger scope of work to tackle, it may even make sense for them to break out into their own full working group at some point.
+
+### A Network of Teams
+
+A more mature version of the DAO might begin to resemble a network of semi-autonomous squads, working groups, and sub-DAOs more than a typical top-down org-chart. This would bring us a long way towards our goal of building a high-functioning decentralized organization. 
+
+Another idea that we can explore to incentivize participation and community contribution is in expanding the idea of the game world to include the entire organization and community at large by making participation fun and rewarding across the entire ecosystem. 
 
 ## Gamification
 
@@ -205,6 +321,12 @@ In the game, perhaps taking actions for the first time can be rewarded with XP t
 
 World XP could also be earned by completing educational courses, participating in DAO governance, contributing to or joining DAO working groups, completing DAO quests, or receiving a community award for positive interaction or contribution (Architects and Facilitators of the Station could hand these out). 
 
+#### Dragon Kill Points
+
+A variation of the XP idea is that instead of your XP continually accruing you could actually "spend" XP on various things akin to the ["Dragon Kill Points" system](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=958945) that became popular in EverQuest, World of WarCraft, and other virtual worlds where group raiding was popular. 
+
+In this way, instead of automatically unlocking various levels, achievements, roles, courses, and so on, you would have to consciously decide what was most important to you and "spend" your points there first. 
+
 
 ### Achievement Badges
 ![achievement badges](img/badges_i.png)
@@ -230,13 +352,6 @@ One use case for levels could be minimum level requirements for gaining access t
 Another possibility is where levels that generally coincide with senior or leadership roles (Level 6 and up) can't be earned automatically and require satisfying a set of pre-requisites in order to considered for manual promotion by higher ranking roles in the DAO. With this approach, we could even consider entrusting special privileges to the highest levels like limited moderation powers in Discord. 
 
 
-### Quests 
-
-Quests could be any small task that the DAO needs completed. Some may be reoccurring, and some may be a one time deal. The rewards for completing these tasks could be some combination of world XP, $ORE, or possibly future in-game items. Quests represent a great way to get new people to take the leap of making their first formal contribution to the world. 
-
-One interesting possibility is that we could allow aspiring pilots that don't have a ship to level up as high as rank 4 (Cadet) by completing quests and be paid in $ORE. This could eventually allow them to participate in the in-game ship auctions and have a shot at winning a ship of their own, which would then allow them to participate in the rest of the ecosystem. 
-
-
 ## The Game Loop of Autonomous Organizations
 
  We've thus far established that A DAO structure based on working groups brings us much closer to a functional operating framework as an organization. A universal achievement system provides a toolkit of fun, non-financial rewards that can be used to gamify any part of the ecosystem and motivate collective autonomous action taking. But if we are to take this idea of a truly self sufficient, decentralized autonomous world seriously, we need to think about how it will actually operate as a holistic system. 
@@ -249,7 +364,7 @@ One way to envision a self perpetuating, self organizing autonomous world is as 
 
 2. The **contributor loop** guides new participants down the path toward greater engagement and contribution to the project, ultimately culminating in high value core contributor and leadership positions in the DAO. This is where all the core building happens, including supporting and growing the economic and educational loops. 
 
-3. The **learning loop** gamifies learning and integrates it all throughout the virtual world. Learning can be incentivized via a gamified reward system where progression through the educational materiels will yield rewards elsewhere in the ecosystem. The overall goal is to onboard more new participants and help them to become outstanding community members as quickly as possible.  
+3. The **learning loop** gamifies learning and integrates it all throughout the virtual world. Learning can be incentivized via a gamified reward system where progression through the educational material will yield rewards elsewhere in the ecosystem. The overall goal is to onboard more new participants and help them to become outstanding community members as quickly as possible.  
 
 Let's discuss each piece in more detail.
 
@@ -265,7 +380,18 @@ The economic engine is powered by three different kinds of "activity motors":
 3. **Community activity** represents the collective actions of all participants in the ecosystem and where the most value creation happens. Funding from in-game and market activity is invested into developing the game, DAO, educational resources, and any other community assets. 
 
 One way our Chief Economist [0xHeimdall](https://twitter.com/HDaxos) likes to think of the DAO treasury is as a type of economic flywheel that is able to frictionlessly capture a portion of the value spun off of the various activity motors for long term storage. This long term store of value provides real backing to the floor price of game assets (NFTs) and bolsters overall economic stability of the ecosystem.  So long as the greater world loop is firing on all cylinders, this economic flywheel could theoretically keep accelerating as the value of the overall ecosystem increases. 
- 
+
+### Operating vs. Investment Funds
+
+In the [Yellowpaper](https://articles.citadel.game/yellowpaper#dao-treasury-funds), we stress the importance of maintaining a minimum ratio of funds in the treasury to quantity of ship NFTs in order to provide a hard backing to the ecosystem. Toward this effort, it may be useful to segregate funds between an operations fund for funding proposals and a long-term investment fund. 
+
+The idea is that the operations fund will determine the operating budget available for funding proposals, compensating contributors, and covering any other operational expenses over a given period. 
+
+Contributions to the operating fund could be determined as a percentage based portion of incoming $ORE taxes and ETH royalties. The fund itself could have a maximum balance cap at which point excess funds would spill over into the investment fund. This way, DAO operational concerns would be able to plan budgets and efforts according to a known operating budget without threatening to disrupt the minimum backing value of treasury funds. 
+
+#### Examples of Operations Funds:
+[Index Coop - TWG - Operations Account](https://gov.indexcoop.com/t/twg-operations-account/1289)
+[Yearn - YIP 54: Formalize Operations Funding](https://yips.yearn.finance/YIPS/yip-54)
 
 ## The Contributor Loop
 A major potential advantage of a decentralized autonomous world project is that it is able to harness and integrate the collective passion and creativity of its participants in real time. Think of how much untapped creative and productive energy is wasted by the millions of fans of traditional franchises who are given neither permission nor outlets to co-create along with the proprietary company. Fan-art of corporate owned IP is more likely to be met with legal action than reward (let alone integration).  The ability to meaningfully utilize this collective creativity could be the secret weapon of decentralized projects like the one we're building. 
@@ -278,7 +404,7 @@ The challenge is in how best to facilitate and incentivize high quality communit
 
 The above graphic describes a "contributor's journey" that starts with a brand new participant and takes them along a path of becoming a high-value, trusted pillar of the community. All throughout the journey, they are motivated by the contributor feedback cycle a.k.a. the *contributor loop* as we refer to it in our model. 
 
-The goal is to allow users to self identify their strengths and talents and then align them as quickly and efficiently as possible with educational materiels and contribution opportunities related to those talents. Those contributions are then rewarded, which in turn incentives the seeking of new opportunities to contribute. 
+The goal is to allow users to self identify their strengths and talents and then align them as quickly and efficiently as possible with educational material and contribution opportunities related to those talents. Those contributions are then rewarded, which in turn incentives the seeking of new opportunities to contribute. 
 
 ![The Contributor Funnel](img/contributor_funnel_i.png)
 
@@ -286,7 +412,48 @@ The entry point for a new user should be like the top of a funnel, where we want
 
 One way to assist in aligning talents with opportunities is to empower new users to self signal their interests and expertise by offering the ability to select user-defined roles such as "artist", "coder", "writer", "lore crafter" and so on. This way, coordinators of working groups looking for particular kinds of contributions can filter for these types of individuals. 
 
-Ultimately, the goal is to support the contributor on their journey as much as possible. An important part of that process will be in offering robust and relevant educational materiels to support contributors along their journey. 
+### The Contributor Pool
+
+At any given time, the DAO will comprise a host of members that are all at different stages of their contributor's journey. It's worth noting that not all contributors are walking on the same path toward the same mountaintop: some endeavor with zeal towards the Everest summit, others are happy to party at Basecamp. All contributors are welcome, but some will contribute more value than others. 
+
+The challenge the DAO faces is how to align and coordinate contributors based on their particular skills, talents, and commitment level, and then reward contribution fairly and efficiently in accordance with the value delivered. It is essential that the DAO's finite resources are invested into supporting and compensating the most valuable contributors.
+
+At any given time, the pool of contributors will be comprised of:
+
+1. **Defined roles**: Usually defined via a proposal, and some with salaries.
+2. **Vetted contributors**: Trusted to take on specific tasks.
+3. **Aspirants**: Unvetted contributors self selected as interested in contributing. 
+
+In addition to proactively supporting those that self signal their initiative and interest, the various groups within the DAO can recruit for specific needs they have via posting opportunities:
+
+- **Job openings**: A defined role opening. 
+- **Projects**: Essentially soliciting a Request for Proposal to take on a particular type of project. 
+- **Quests**: Specific tasks defined by a leadership position or multi-sig (see more in Quests)
+
+### Compensating Contributions
+
+There are three main ways to compensate contributions:
+
+1. Non-financial rewards (Universal Achievement System)
+2. Native token ($ORE)
+3. ETH
+
+Some combination of these rewards will be defined at different levels and offered to contributors in various forms:
+
+- Direct compensation via proposal for e.g. one-off projects
+- Salaries for defined roles and lead positions defined in proposals, perhaps via automated payment tools
+- Rewards for quests and bounties predefined by leads
+- Something like [Coordinape](https://coordinape.com/) as a peer based compensation option, or as a social "tipping" or bonus system on top of base pay rates defined in proposals
+
+### Quests 
+
+Quests could be any small task that the DAO needs completed. Some may be reoccurring, and some may be a one time deal. The rewards for completing these tasks could be some combination of world XP, $ORE, or possibly future in-game items. Quests represent a great way to get new people to take the leap of making their first formal contribution to the world. 
+
+One interesting possibility is that we could allow aspiring pilots that don't have a ship to level up as high as rank 4 (Cadet) by completing quests and be paid in $ORE. This could eventually allow them to participate in the in-game ship auctions and have a shot at winning a ship of their own, which would then allow them to participate in the rest of the ecosystem. 
+
+---
+
+Ultimately, the goal is to support the contributor on their journey as much as possible. An important part of that process will be in offering robust and relevant educational material to support contributors along their journey. 
 
 ## The Learning Loop
 
