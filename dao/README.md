@@ -2,7 +2,7 @@
 
 Citadel DAO is a fully on-chain [Decentralized Autonomous Organization](https://ethereum.org/en/dao/) (DAO). The DAO owns and controls The Citadel game as well as all governance contracts. The spaceship NFT used to play the game is also the governance token required to participate in the DAO. Proposals submitted by ship holders are able to modify contract code as well as request funding from the treasury. 
 
-To learn more about the thought process and theory behind our approach as well as a vision for the future of the DAO, read [Organizing The Citadel](/org/). 
+To learn more about the thought process and theory behind our approach as well as a vision for the future of the DAO, read [Organizing The Citadel](/dao/org/). 
 
 ## Eligibility
 

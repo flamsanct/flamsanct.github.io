@@ -154,14 +154,14 @@ In this approach, hierarchies intersect one another and are domain and context-s
 ### Building Trust vs. Taking Action
 
 > "Go slow now to go fast later" 
-> -Unknown
+-- Unknown
 
 While there may be a temptation to try to onboard as many contributors as we can and grow as fast as possible, there's a case to be made for deliberately starting small and growing slowly in terms of core contributors. 
 
 Organization and incentive design can take us a long way, but ultimately the work comes down to the relationships between people. In decentralized networks, the strength and quality of relationships are more important than the number of connections. Tight-knit teams that come to know and trust each other are going to be best positioned to navigate the unique challenges of a decentralized organization, and this can't be rushed or forced. 
 
 ### Divergence vs. Convergence
-![Healthy and Unhealthy Divergence](healthy_unhealthy_divergence.png)
+![Healthy and Unhealthy Divergence](img/healthy_unhealthy_divergence.png)
 <p style="font-style: italic; text-align: center;"><a href="https://twitter.com/beh_zod/status/1518642746155692032">Behzod Sirjani @beh_zod</a></p>
 
 Decentralized autonomy means the freedom for any single part of the whole to move and experiment in new directions without necessarily asking for permission. This creates space for the spontaneous emergence of new ideas and solutions that *diverge* from the status quo. These divergent forces are what allow decentralized organizations to be adaptable, creative, and responsive to complex environments. 
@@ -185,7 +185,7 @@ Convergent attractors can be used to counterbalance the emergent tendency toward
 Two conflicting polarities the Core Team has had to reconcile in designing the decentralized aspects of The Citadel are the need for top-down planning vs. letting things emerge from the community organically. We will all be facing this challenge as we collectively stand up the early phases of the DAO together, and it's a trade-off we will make time and again. 
 
 > "Navigating these two polarities results in what we call planning for emergence—sensing into the past, present, and future to identify and pursue high-potential opportunities while maintaining a spirit of experimentation in order to adapt quickly to new information."
--- Impact Networks by David Ehrlichman 
+-- *Impact Networks* by David Ehrlichman 
 
 While it can be uncomfortable and scary at times, building a community-governed organization involves an element of surrendering to the unknown. Planning is essential and tremendously valuable, but overly rigid prescriptions can constrain the ability to adapt and integrate the collective voice. Too much planning too far in advance can stifle creativity, sap energy, and waste potential. 
 
@@ -193,7 +193,7 @@ The design of organizing structure involves a similar balancing act. If too much
 
 ## Structuring the DAO
 ![DA0 Models](img/dao20.png)
-<p style="text-align:center; font-style: italic">Source: 1kxnetwork's excellent <a style="" href="https://medium.com/1kxnetwork/organization-legos-the-state-of-dao-tooling-866b6879e93e">Organization Legos: The State of DAO Tooling</a></p>
+<p style="text-align:center; font-style: italic">1kxnetwork's excellent <a style="" href="https://medium.com/1kxnetwork/organization-legos-the-state-of-dao-tooling-866b6879e93e">Organization Legos: The State of DAO Tooling</a></p>
 
 When we look at what the above chart refers to as a DAO 1.0 versus a DAO 2.0, the launch version of Citadel DAO will land closer to the 1.0 model. The majority of day-to-day project management will still be concentrated with the core team and early community decision-making will necessitate a DAO-wide democratic vote on a proposal. So there will be DAO 1.0 way of getting things done initially, and the team will provide as much documentation about how to go about this as possible. 
 
@@ -271,7 +271,7 @@ Over time, working groups will likely gain more autonomy, operational coherence,
 
 Of course, not all working groups need be permanent. If the mandate of the group is no longer relevant to the current operational needs and priorities of the DAO it can contract, merge with other groups, or spin down entirely. A proposal for requesting renewal of funding is a good opportunity to assess the current trajectory of the group and adjust accordingly.
     
-##### Squads
+**Squads**
 
 If the mandate of a single working group expands to a large enough threshold it may find it needs to split up into smaller, more manageable units. At some point, it may make sense for projects that the group is working on to split off into project teams we might call "squads" that spin up and down as needed. For squads that discover a recurring role to play or perhaps a larger scope of work to tackle, it may even make sense for them to break out into their own full working group at some point.
 
@@ -474,8 +474,8 @@ Segregating operating funds could act to protect the bulk of community funds sto
 Contributions to the operating fund could be determined as a percentage-based portion of incoming $ORE taxes and ETH royalties. The fund itself could have a maximum balance cap at which point excess funds would spill over into the investment fund. Alternatively, the operating fund could be explicitly allocated funds via funding proposals at regular intervals.  
 
 #### Examples of Operations Funds:
-[Index Coop - TWG - Operations Account](https://gov.indexcoop.com/t/twg-operations-account/1289)
-[Yearn - YIP 54: Formalize Operations Funding](https://yips.yearn.finance/YIPS/yip-54)
+- [Index Coop - TWG - Operations Account](https://gov.indexcoop.com/t/twg-operations-account/1289)
+- [Yearn - YIP 54: Formalize Operations Funding](https://yips.yearn.finance/YIPS/yip-54)
 
 ## The Contributor Loop
 
