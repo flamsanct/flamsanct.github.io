@@ -6,6 +6,12 @@ This document is a concise outline of what powers and privileges exist in the DA
 
 Funds may only be transferred out of the DAO treasury via a community proposal (not an emergency proposal). 
 
+## Royalty Split
+
+Royalty fees from exchanges (as of now, OpenSea) will be split with 50% of royalties going to the DAO treasury and 50% going to the Core Team directly. 
+
+This arrangement is intended to be fluid rather than permanent. For now, the majority of operations and development will be the responsibility of the Core Team. As more responsibility is handed over to community teams, the royalty split can and should be revisited.
+
 ## Game and Governance Contracts
 
 Upon deployment, the governance system will be granted ownership and control of the game and governance contracts. 
