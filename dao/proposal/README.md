@@ -48,6 +48,18 @@ We will use CDP (Citadel DAO Proposal), where the first proposal will be CDP 1, 
 
 More info on this process will be available on the Discourse forum. 
 
+## Submit On-chain Proposals on Sunday 
+
+All on-chain proposals should be submitted on Sunday. Voting on all proposals will thus start and end on Sunday.  
+
+### Rationale
+
+In an effort to make participating in governance more accessible, we'll experiment with launching all new proposals on a specific day. Since the voting period is one week, this would mean voting for all proposals would start and end on the same day. This way, everyone knows when to vote without having to track multiple individual voting timelines. This should be considered an experiment that can be reviewed, changed, or discontinued if it's found to be ineffective.
+
+### Exceptions
+
+If a proposal is time sensitive (but not an [emergency](/dao/powers/#emergency-proposal-multi-sig)) and waiting for Sunday is an issue, a proposer can request written approval to submit the on-chain proposal on a day that isn't Sunday from a member of the Core Team on the Draft Proposal. This process can be amended via a community resolution at any time. 
+
 ## The Proposal Process
 
 ### **Step 0: Vet Idea on Discourse Forum**
