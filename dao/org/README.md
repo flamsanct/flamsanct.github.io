@@ -97,7 +97,7 @@ Ideally, your rewards are part of a greater system that other people participate
 
 The Citadel is at the intersection of all the above characteristics, which places us into somewhat uncharted territory. 
 
-The truly unique a of an on-chain DAO owning an on-chain virtual world is that one can become an inextricable part of the other. Rather than an on-chain game that just so happens to be owned by a DAO, we could instead recognize this to be a singular on-chain world that is owned and operated by its players. It accomplishes this via governance mechanics that could be considered as native to the world as any other on-chain mechanic. 
+The truly unique aspect of an on-chain DAO owning an on-chain virtual world is that one can become an inextricable part of the other. Rather than an on-chain game that just so happens to be owned by a DAO, we could instead recognize this to be a singular on-chain world that is owned and operated by its players. It accomplishes this via governance mechanics that could be considered as native to the world as any other on-chain mechanic. 
 
 For example, we'll talk later about a proposed "working group" called the Council, a type of oversight committee for the DAO. Fleet Commander has been "reporting to the Council" from the start of the project from a lore perspective. "The Council" could theoretically exist in-game in some form or another. Voting on proposals occurs in the "Parliament" in the lore, which could also theoretically actually exist in-game -- certainly via an in-game interface. The DAO has the capacity to increasingly move from an external abstraction toward an entity that inhabits the world. 
 
@@ -117,7 +117,7 @@ Among the best tools at our disposal is experimentation. When faced with uncerta
 
 ## Trade-offs in Decentralized Design
 
-In attempting to shift from a negative-sum to a positive-sum mindset, it is helpful to become aware of the existence of conflicting polarities. There is a temptation to favor one dualistic extreme over its opposite, but if we instead view them as two complementary forces to be held in balance we don't have to chose sides. 
+In attempting to shift from a negative-sum to a positive-sum mindset, it is helpful to become aware of the existence of conflicting polarities. There is a temptation to favor one dualistic extreme over its opposite, but if we instead view them as two complementary forces to be held in balance we don't have to choose sides. 
 
 ### Centralization vs. Decentralization 
 
